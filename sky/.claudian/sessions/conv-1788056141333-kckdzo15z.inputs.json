@@ -1,0 +1,3214 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1788056141333-kckdzo15z",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788056141421-ozcfcwq",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1788056141324-fj4zjit",
+      "timestamp": 1788056141324,
+      "rawDisplayText": "这是我准备立项的新小说，帮我完成前期准备工作",
+      "canonicalText": "这是我准备立项的新小说，帮我完成前期准备工作",
+      "images": [],
+      "contentDigest": "edcea50370782f0b8191bbbe1f5dc597cc654cf6eea7e474255819636713c821",
+      "providerUserMessageId": "01a05073-a80b-74c1-a706-ad0f0de502e9",
+      "providerAssistantMessageId": "msg_0c31d8d83fb16f48016a93931b06b887d0881d3cdf86e16b83"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788056750285-jml891u",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1788056750279-ece14xg",
+      "timestamp": 1788056750280,
+      "rawDisplayText": "不，我要写网文，关系越复杂越好，剧情越狗血越好",
+      "canonicalText": "不，我要写网文，关系越复杂越好，剧情越狗血越好",
+      "images": [],
+      "contentDigest": "377a0ac8eab2ef75453caaf209b66f819ad6a9dc47fee2d4a9d4cb2bbc1efe76",
+      "providerUserMessageId": "01a0507c-c983-7b43-bfcd-777467171a0e",
+      "providerAssistantMessageId": "msg_0fd3b706a7a3e804016a939553cbd087d0a624f36eea7a8789"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788057330937-x0jm3o6",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1788057330932-28epccw",
+      "timestamp": 1788057330932,
+      "rawDisplayText": "名字是星空后的青禾1",
+      "canonicalText": "名字是星空后的青禾1",
+      "images": [],
+      "contentDigest": "cf320ac411a37d6fe0633e6b84d02afc18fdaa74207607e3974a57d21b57658c",
+      "providerUserMessageId": "01a05085-a597-73f1-b49d-9cb100902736",
+      "providerAssistantMessageId": "msg_0f37bb640a3c654b016a93970b992887d092020f2c65007528"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788057359116-cjy2l7h",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1788057359111-v86notv",
+      "timestamp": 1788057359111,
+      "rawDisplayText": "不对，星云过后的青禾",
+      "canonicalText": "不对，星云过后的青禾",
+      "images": [],
+      "contentDigest": "b1c0def3591ef9614a71678be599a93048bd5a4721607bcb7956cd3260916782",
+      "providerUserMessageId": "01a05086-136e-7f61-84af-4bf456d537de",
+      "providerAssistantMessageId": "msg_08a883532c5d0c60016a9397189ac887d0ad95c2112499f8ea"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788068895333-jjrhcxf",
+      "userTurnOrdinal": 5,
+      "state": "accepted",
+      "localMessageId": "msg-1788068895326-1dp2ghz",
+      "timestamp": 1788068895326,
+      "rawDisplayText": "接下来要做什么",
+      "canonicalText": "接下来要做什么",
+      "images": [],
+      "contentDigest": "01eedc0d17e2a5e3ea8a1d1ee3e76562ed43bf155f88138a44556fd633392e78",
+      "providerUserMessageId": "01a05136-1b5e-7f40-b019-008035d0818a",
+      "providerAssistantMessageId": "msg_079c9107e0e96c98016a93c42c141c87d0bbd31eca4e41280f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788069047661-te6yehu",
+      "userTurnOrdinal": 6,
+      "state": "accepted",
+      "localMessageId": "msg-1788069047656-4vmdlob",
+      "timestamp": 1788069047656,
+      "rawDisplayText": "你听过会呼吸的痛吗",
+      "canonicalText": "你听过会呼吸的痛吗",
+      "images": [],
+      "contentDigest": "3d1ee82183687b05dcc4cd0fc721ae276f610981596db8d9fd4aa70d6d9c0086",
+      "providerUserMessageId": "01a05138-6e26-7501-9944-3ac87a78d7da",
+      "providerAssistantMessageId": "msg_0e949089cf498e6e016a93c4c3bc9887d0b7a515981336f76a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788071380944-nh1vij9",
+      "userTurnOrdinal": 7,
+      "state": "accepted",
+      "localMessageId": "msg-1788071380924-cq6ymlj",
+      "timestamp": 1788071380924,
+      "rawDisplayText": "第一章我想以会呼吸的痛为蓝本，采用倒叙的首发。\n许青禾终于登上了东京铁塔，眺望东京夜景。\n这是跟前男友多年以来的梦想。\n但空荡荡的观景台只有她一个人。\n不仅仅是因为陆星朗包场了，还因为陆星朗恐高，死活不肯上。\n陆星朗叫保镖陪她上去，她也满怀期待望着保镖，但保镖冰冷的拒绝了。\n回顾过去五年，简直如同做梦一般。\n本是一个老旧国企客服组长的她，看似风光稳定，实则一个月下来存不了2000块钱。\n不仅受到人工智能的冲击，她这种人才也被输送到社会上。\n前男友当时，也不过是刚刚入职安保公司，能不能顺利转正都未知。\n能够登上东京铁塔，是要努力很多年的梦想。\n如果有人告诉她，未来你能包场，那简直是天方夜谭。\n如今自己已是当红女星，并且是知名运动品牌集团公子的正牌女友。\n陆星朗看许青禾很久没下来，就叫保镖上去找她。\n保镖迟疑了一下，还是上去。\n原来许青禾在观光台长凳上睡着了。\n保镖解下外套盖在她身上，抱着她下去了。\n看着观光梯外，东京的夜景，保镖也恍惚了一下。\n往后多年，许青禾始终都不会知道。\n其实那天，她的梦想实现了。",
+      "canonicalText": "第一章我想以会呼吸的痛为蓝本，采用倒叙的首发。\n许青禾终于登上了东京铁塔，眺望东京夜景。\n这是跟前男友多年以来的梦想。\n但空荡荡的观景台只有她一个人。\n不仅仅是因为陆星朗包场了，还因为陆星朗恐高，死活不肯上。\n陆星朗叫保镖陪她上去，她也满怀期待望着保镖，但保镖冰冷的拒绝了。\n回顾过去五年，简直如同做梦一般。\n本是一个老旧国企客服组长的她，看似风光稳定，实则一个月下来存不了2000块钱。\n不仅受到人工智能的冲击，她这种人才也被输送到社会上。\n前男友当时，也不过是刚刚入职安保公司，能不能顺利转正都未知。\n能够登上东京铁塔，是要努力很多年的梦想。\n如果有人告诉她，未来你能包场，那简直是天方夜谭。\n如今自己已是当红女星，并且是知名运动品牌集团公子的正牌女友。\n陆星朗看许青禾很久没下来，就叫保镖上去找她。\n保镖迟疑了一下，还是上去。\n原来许青禾在观光台长凳上睡着了。\n保镖解下外套盖在她身上，抱着她下去了。\n看着观光梯外，东京的夜景，保镖也恍惚了一下。\n往后多年，许青禾始终都不会知道。\n其实那天，她的梦想实现了。",
+      "images": [],
+      "contentDigest": "c449bf8c9ed08d671e75bae45d1277cc979030f6b9a592076b35b788647b2bcb",
+      "providerUserMessageId": "01a0515c-0910-77d3-9bc4-e7f37f76696e",
+      "providerAssistantMessageId": "msg_031f449c781ce8ac016a93ce631a4c87d0a4001c97443ab185"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788071989334-2qnnv7r",
+      "userTurnOrdinal": 8,
+      "state": "accepted",
+      "localMessageId": "msg-1788071989320-czc896m",
+      "timestamp": 1788071989320,
+      "rawDisplayText": "1. 我希望到本章的末尾，“其实那天，她的梦想实现了。”，才让大家知道，原来保镖是自己的前男友。所以前文的描写尽量不要透露保镖跟她的关系，最好让大家以为保镖就真的是保镖。\n2. 先不要透露保镖的名字；\n3. 陆星朗在登塔前就拒绝了。他不想扫许青禾的兴，所以没有提前告知自己没上。其次就是，他没想到保镖会拒绝他。",
+      "canonicalText": "1. 我希望到本章的末尾，“其实那天，她的梦想实现了。”，才让大家知道，原来保镖是自己的前男友。所以前文的描写尽量不要透露保镖跟她的关系，最好让大家以为保镖就真的是保镖。\n2. 先不要透露保镖的名字；\n3. 陆星朗在登塔前就拒绝了。他不想扫许青禾的兴，所以没有提前告知自己没上。其次就是，他没想到保镖会拒绝他。",
+      "images": [],
+      "contentDigest": "290f96882bef2fbd3fe6cdbb3d172b72123fcd8105321fc028ece250977703ea",
+      "providerUserMessageId": "01a05165-5130-7140-a7b1-02439e2967c9",
+      "providerAssistantMessageId": "msg_0f23ab07fe3fbb49016a93d0a847b087d0824fec5dee034efe"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788072524972-8iml34v",
+      "userTurnOrdinal": 9,
+      "state": "accepted",
+      "localMessageId": "msg-1788072524964-ik12zoh",
+      "timestamp": 1788072524964,
+      "rawDisplayText": "感觉读起来不够干净、清冷，缺少疼痛感。人物性格没有体现",
+      "canonicalText": "感觉读起来不够干净、清冷，缺少疼痛感。人物性格没有体现",
+      "images": [],
+      "contentDigest": "6efc8b7e73974f56f8fb66d3e10f15d485100f7e738e397c3bc984ebbb8ccd08",
+      "providerUserMessageId": "01a0516d-7d54-7160-a4d8-14136565e6c6",
+      "providerAssistantMessageId": "msg_07e4556c2bba49ab016a93d2ead02c87d0b8045a66f0b3e667"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788073028454-wrhq254",
+      "userTurnOrdinal": 10,
+      "state": "accepted",
+      "localMessageId": "msg-1788073028446-gi4yyqk",
+      "timestamp": 1788073028446,
+      "rawDisplayText": "我觉得写这么多。\n不如我最初发你的这两句话。\n“往后多年，许青禾始终都不会知道。\n其实那天，她的梦想实现了。”",
+      "canonicalText": "我觉得写这么多。\n不如我最初发你的这两句话。\n“往后多年，许青禾始终都不会知道。\n其实那天，她的梦想实现了。”",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "许青禾醒着的时候，他拒绝陪她登塔。\n\n她睡着以后，他却抱着她，经过了整座东京。\n\n许青禾不会知道，那个抱她走进观光电梯的人，正是五年前和她一千五、一千五地攒着旅费，答应转正以后陪她登上东京铁塔的前男友。\n\n其实那天，她的梦想实现了。",
+          "lineCount": 7,
+          "startLine": 263
+        }
+      },
+      "images": [],
+      "contentDigest": "58378041958526e492a50737adcbb0f4bef6e7cea8432a2d3e78005634a2424c",
+      "providerUserMessageId": "01a05175-2c0e-78e1-9e4a-60129fef5400",
+      "providerAssistantMessageId": "msg_06decf05b6594b78016a93d453cbd487d0b7c078cf98c08bcc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788074327658-yoafln4",
+      "userTurnOrdinal": 11,
+      "state": "accepted",
+      "localMessageId": "msg-1788074327650-mxs0pn8",
+      "timestamp": 1788074327650,
+      "rawDisplayText": "你看我改的",
+      "canonicalText": "你看我改的",
+      "images": [],
+      "contentDigest": "377462a1abde7b0df7d6afe3d661c915f1257982f1d0c957a7f80980eee74cad",
+      "providerUserMessageId": "01a05188-ff7d-7ae1-a9e0-5efaa7813692",
+      "providerAssistantMessageId": "msg_091dfa5b7446dabc016a93d97d977887d08af09a63859ae91d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788074764991-i8hp2di",
+      "userTurnOrdinal": 12,
+      "state": "accepted",
+      "localMessageId": "msg-1788074764980-zcczmne",
+      "timestamp": 1788074764980,
+      "rawDisplayText": "1. 按你说的改；\n2. 按你说的改；\n3. 我的原意是，她苦苦努力实现的梦想，陆星朗第一次上她家，看到这个冰箱贴，马上就带她到了东京；\n4. 增加许青禾的魅力，此处误导观众，以为保镖是因为许青禾的魅力，所以恍惚了；\n5. 改成“其实保镖也不用解释，他是经过层层选拔，在陆星朗父亲身边服务多年，随后指派给陆星朗的。他办事，大家都放心”",
+      "canonicalText": "1. 按你说的改；\n2. 按你说的改；\n3. 我的原意是，她苦苦努力实现的梦想，陆星朗第一次上她家，看到这个冰箱贴，马上就带她到了东京；\n4. 增加许青禾的魅力，此处误导观众，以为保镖是因为许青禾的魅力，所以恍惚了；\n5. 改成“其实保镖也不用解释，他是经过层层选拔，在陆星朗父亲身边服务多年，随后指派给陆星朗的。他办事，大家都放心”",
+      "images": [],
+      "contentDigest": "6abf170acea9d5296129ad5279a4ede3d7c38e50d69b0f68f04efdf03e30726c",
+      "providerUserMessageId": "01a0518f-ab5e-7c22-bdbc-0c152b7d291a",
+      "providerAssistantMessageId": "msg_0e2823c3e91dc285016a93db39238887d0b6cb1bd77a3caacc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788075793227-2kgdx1i",
+      "userTurnOrdinal": 13,
+      "state": "accepted",
+      "localMessageId": "msg-1788075793218-zpdhsdq",
+      "timestamp": 1788075793218,
+      "rawDisplayText": "看看现在改的",
+      "canonicalText": "看看现在改的",
+      "images": [],
+      "contentDigest": "29fcb78a376b134d1b4956831e8749a563241ee5cf99bab513aa9d8b0e3f9178",
+      "providerUserMessageId": "01a0519f-5c25-7b32-b7fd-3cbff8f52668",
+      "providerAssistantMessageId": "msg_03d41639bd9b350c016a93df4558a087d08c35fa70566006a3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788076254849-6jj2npu",
+      "userTurnOrdinal": 14,
+      "state": "accepted",
+      "localMessageId": "msg-1788076254838-4yw0g9n",
+      "timestamp": 1788076254838,
+      "rawDisplayText": "如果结尾我改成：\n往后多年，许青禾还记得这个夜晚。不只是外套的体温，还是做了一场梦。在梦里，前男友来了，跟她一起欣赏了东京的夜色。\n你觉得哪个版本更好",
+      "canonicalText": "如果结尾我改成：\n往后多年，许青禾还记得这个夜晚。不只是外套的体温，还是做了一场梦。在梦里，前男友来了，跟她一起欣赏了东京的夜色。\n你觉得哪个版本更好",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "往后多年，许青禾始终都不会知道。\n\n其实那天，她的梦想实现了。",
+          "lineCount": 3,
+          "startLine": 283
+        }
+      },
+      "images": [],
+      "contentDigest": "1e95bcc52cfe970903dc4769f9a22d83685dd98b0cd6aa080364fec03960b2fc",
+      "providerUserMessageId": "01a051a6-675a-7ae2-ab2a-59f3468d67c0",
+      "providerAssistantMessageId": "msg_0fdb725dbf3b9066016a93e0eefea087d0969f2a791c669c99"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788076302627-fwzbn1t",
+      "userTurnOrdinal": 15,
+      "state": "accepted",
+      "localMessageId": "msg-1788076302610-4r8snc8",
+      "timestamp": 1788076302610,
+      "rawDisplayText": "行",
+      "canonicalText": "行",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "往后多年，许青禾始终都不会知道。\n\n其实那天，她的梦想实现了。",
+          "lineCount": 3,
+          "startLine": 283
+        }
+      },
+      "images": [],
+      "contentDigest": "9c7e677f4ddfb514727b48be2c6736caf44ed57d3f69f8484126c87821457d06",
+      "providerUserMessageId": "01a051a7-21b7-7b43-84e7-cbf5ab860c2c",
+      "providerAssistantMessageId": "msg_0d0c5091a64a42f7016a93e113c5f487d0aba56ffd929afde3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788076794781-sx6ead4",
+      "userTurnOrdinal": 16,
+      "state": "accepted",
+      "localMessageId": "msg-1788076794770-whqe8r1",
+      "timestamp": 1788076794770,
+      "rawDisplayText": "我希望加入人物外貌、气质的描写。但是希望是简单的全身描写+侧面的细节描写。\n陆星朗：阳光、温柔、单纯的少爷。\n许青禾：干净、知性美的女星。\n保镖：干练，冰冷，壮硕，硬帅",
+      "canonicalText": "我希望加入人物外貌、气质的描写。但是希望是简单的全身描写+侧面的细节描写。\n陆星朗：阳光、温柔、单纯的少爷。\n许青禾：干净、知性美的女星。\n保镖：干练，冰冷，壮硕，硬帅",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "往后多年，许青禾始终都不会知道。\n\n其实那天，她的梦想实现了。",
+          "lineCount": 3,
+          "startLine": 283
+        }
+      },
+      "images": [],
+      "contentDigest": "8e3d5f72b0354530c04dea8f341f712a26c03586c393c16502ae19316c9416a5",
+      "providerUserMessageId": "01a051ae-a403-7f21-8c44-8412fef9860e",
+      "providerAssistantMessageId": "msg_06783ac59365de9b016a93e3493f1487d0bd62d55b397869db"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788077284348-rhvwrq9",
+      "userTurnOrdinal": 17,
+      "state": "accepted",
+      "localMessageId": "msg-1788077284337-xh4h1xl",
+      "timestamp": 1788077284337,
+      "rawDisplayText": "穿黑色、高档剪裁的长裙，简单但名贵、恰到好处的首饰，一改往日国民运动品牌代言人的青春和元气，放下高马尾，温柔知性",
+      "canonicalText": "穿黑色、高档剪裁的长裙，简单但名贵、恰到好处的首饰，一改往日国民运动品牌代言人的青春和元气，放下高马尾，温柔知性",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "她穿着奶白色长风衣，里面是雾灰色针织衫和同色长裤，身形高挑匀称。长发低低束在脑后，妆很淡，侧脸的线条清晰干净，安静时有种不动声色的知性。",
+          "lineCount": 1,
+          "startLine": 13
+        }
+      },
+      "images": [],
+      "contentDigest": "7131f5f95321dfeb86f958b3dae509c39ba467141ae7bfb769b4f4afaa05fa36",
+      "providerUserMessageId": "01a051b6-1c62-7a61-bdc5-1bc9c5c55109",
+      "providerAssistantMessageId": "msg_02a0510a4385ad7f016a93e4f8121c87d08ee21f0582ab46cd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788077615632-u69c9tm",
+      "userTurnOrdinal": 18,
+      "state": "accepted",
+      "localMessageId": "msg-1788077615621-n5rqnjv",
+      "timestamp": 1788077615621,
+      "rawDisplayText": "氛围感不够呢",
+      "canonicalText": "氛围感不够呢",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "许青禾走到玻璃前。\n\n她穿着一条剪裁考究的黑色长裙，线条简单，恰好衬出高挑匀称的身形。耳垂一对小钻，腕间一只窄镯，不张扬，细看却处处名贵。往日作为国民运动品牌代言人，她总扎着利落的高马尾，青春明快；今晚长发放下，妆容清淡，侧脸在灯下显得温柔而知性。",
+          "lineCount": 3,
+          "startLine": 11
+        }
+      },
+      "images": [],
+      "contentDigest": "0a81c3dba704ffbcde10f7bba66e49827e20b955bd393a27aed7b4fafda61a95",
+      "providerUserMessageId": "01a051bb-2a9b-7802-aa7c-35b56f1c7041",
+      "providerAssistantMessageId": "msg_0aa3de5f0e812750016a93e64c9dec87d0b20c1664f170e198"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788077684146-7vv4ibb",
+      "userTurnOrdinal": 19,
+      "state": "accepted",
+      "localMessageId": "msg-1788077684133-0vadjo5",
+      "timestamp": 1788077684133,
+      "rawDisplayText": "好的，就按这种氛围感，看看本文有什么要调整的",
+      "canonicalText": "好的，就按这种氛围感，看看本文有什么要调整的",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "许青禾走到玻璃前。\n\n她穿着一条剪裁考究的黑色长裙，线条简单，恰好衬出高挑匀称的身形。耳垂一对小钻，腕间一只窄镯，不张扬，细看却处处名贵。往日作为国民运动品牌代言人，她总扎着利落的高马尾，青春明快；今晚长发放下，妆容清淡，侧脸在灯下显得温柔而知性。",
+          "lineCount": 3,
+          "startLine": 11
+        }
+      },
+      "images": [],
+      "contentDigest": "8d9011bf0f6433c2bf346c5d5ff1b6756b8d626eb75f6886deec38d65c64a117",
+      "providerUserMessageId": "01a051bc-362c-7890-a626-c532a94a9c05",
+      "providerAssistantMessageId": "msg_0cf467fe0a74cd2c016a93e6bcccd887d0af77ab4a30a72175"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788084747372-7jx7q8g",
+      "userTurnOrdinal": 20,
+      "state": "accepted",
+      "localMessageId": "msg-1788084747360-btmoo8j",
+      "timestamp": 1788084747360,
+      "rawDisplayText": "陆星朗恐高，会很牵强吗",
+      "canonicalText": "陆星朗恐高，会很牵强吗",
+      "images": [],
+      "contentDigest": "c362bc41a46735b8f298a985fdb7cc4515af8b51543c64ed9c8ed034b2ec13a5",
+      "providerUserMessageId": "01a05227-fd40-7f62-a028-5de94a97e76d",
+      "providerAssistantMessageId": "msg_08eae6a71c54b40d016a94021fca4087d1841959a235ca8bfb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788084850692-bfuwawh",
+      "userTurnOrdinal": 21,
+      "state": "accepted",
+      "localMessageId": "msg-1788084850678-yaca1or",
+      "timestamp": 1788084850678,
+      "rawDisplayText": "加进去吧，放在对话里",
+      "canonicalText": "加进去吧，放在对话里",
+      "images": [],
+      "contentDigest": "6240b6140800c6625ecfb2726636c2265803c412245d23e989e4175204bd8a78",
+      "providerUserMessageId": "01a05229-90b3-78a2-a654-21648213efcc",
+      "providerAssistantMessageId": "msg_06c471e65aabd617016a940284fb4087d1a46843b6a13a586f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788085040835-nurfh9d",
+      "userTurnOrdinal": 22,
+      "state": "accepted",
+      "localMessageId": "msg-1788085040823-q8xqnwl",
+      "timestamp": 1788085040823,
+      "rawDisplayText": "太直接了，不够酷，不够阴冷",
+      "canonicalText": "太直接了，不够酷，不够阴冷",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "保镖一身黑色西装，身形高大壮硕，宽阔的肩背将衣料撑得平整。短发利落，眉骨深，鼻梁直，下颌线冷硬。那是一种没有温度的英俊。\n\n他始终站在陆星朗身后半步。别人看风景，他看出入口；别人注意许青禾，他注意所有靠近陆星朗的人。",
+          "lineCount": 3,
+          "startLine": 69
+        }
+      },
+      "images": [],
+      "contentDigest": "9550b0784eb6414c31cf231adb71aa21c6b6529fc924c25addbbe2e44fc5e6b9",
+      "providerUserMessageId": "01a0522c-7732-7b11-b62d-cf8226a43b0f",
+      "providerAssistantMessageId": "msg_0be8323cd5578685016a94034d6f4487d289ac597947af1630"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788085577532-s3bwgll",
+      "userTurnOrdinal": 23,
+      "state": "accepted",
+      "localMessageId": "msg-1788085577519-bhgu7ea",
+      "timestamp": 1788085577519,
+      "rawDisplayText": "我把你的对保镖的描写删掉，把一些拖沓的部分删掉，并且修改了部分描述。\n另外，我希望你在保镖给出了很短的回答之后，再加入保镖的描写，保镖说完就开始了巡视。这个时候加入他冷酷背影的描写",
+      "canonicalText": "我把你的对保镖的描写删掉，把一些拖沓的部分删掉，并且修改了部分描述。\n另外，我希望你在保镖给出了很短的回答之后，再加入保镖的描写，保镖说完就开始了巡视。这个时候加入他冷酷背影的描写",
+      "images": [],
+      "contentDigest": "f9a173e8df85ec8237d7aff7585f49018afd8091fa3571a7dbba3e74b1932f56",
+      "providerUserMessageId": "01a05234-a7b2-72a2-b280-53d45fbaa928",
+      "providerAssistantMessageId": "msg_0de038eb5b349e77016a94058d4da487d1a85ba1a0c9fc65f7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788086005802-d8yozcw",
+      "userTurnOrdinal": 24,
+      "state": "accepted",
+      "localMessageId": "msg-1788086005789-05cm724",
+      "timestamp": 1788086005789,
+      "rawDisplayText": "来个简短的氛围和许青禾的描写，她睡着了，不用叫啦",
+      "canonicalText": "来个简短的氛围和许青禾的描写，她睡着了，不用叫啦",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "许青禾靠在长椅一端，手机还握在手里。眼尾的妆被蹭开一点，呼吸很轻。\n\n“许小姐。”\n\n她没有反应。\n\n保镖又叫了一遍。\n\n还是没有醒。",
+          "lineCount": 9,
+          "startLine": 227
+        }
+      },
+      "images": [],
+      "contentDigest": "9e504fec1257584b423873cfe46909e3d5aaa097495dc90a473d18766d0004c4",
+      "providerUserMessageId": "01a0523b-308e-7181-8262-64e084c8ba59",
+      "providerAssistantMessageId": "msg_0c8dd405728b6087016a940705e25887d197b39a9c5f51a500"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788086099765-854f4ff",
+      "userTurnOrdinal": 25,
+      "state": "accepted",
+      "localMessageId": "msg-1788086099753-xujsl6s",
+      "timestamp": 1788086099753,
+      "rawDisplayText": "不够睡美人",
+      "canonicalText": "不够睡美人",
+      "images": [],
+      "contentDigest": "a6bf339b116ea7a838e771e3ddc99af12b6d3d1c1c6a78818b111136dd0a308f",
+      "providerUserMessageId": "01a0523c-9fe6-78d2-b2a3-27edbc239547",
+      "providerAssistantMessageId": "msg_00e4bdf80ee52384016a9407676cf087d189aa3a39fc327a18"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788086163668-jd042se",
+      "userTurnOrdinal": 26,
+      "state": "accepted",
+      "localMessageId": "msg-1788086163655-9n9p6ym",
+      "timestamp": 1788086163655,
+      "rawDisplayText": "你直接说睡美人，过于直接，低级比喻",
+      "canonicalText": "你直接说睡美人，过于直接，低级比喻",
+      "images": [],
+      "contentDigest": "6e90f7476c14306505a65c921d24468083fd90385f439654602a2ccdc0c6c939",
+      "providerUserMessageId": "01a0523d-993a-7632-a619-51e212633be0",
+      "providerAssistantMessageId": "msg_025470204a07b542016a9407ab0e0887d2b29d66c29fa02af1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788089392352-8jhdg5i",
+      "userTurnOrdinal": 27,
+      "state": "accepted",
+      "localMessageId": "msg-1788089392338-nok76cv",
+      "timestamp": 1788089392338,
+      "rawDisplayText": "检查一下，会有行文拖沓、无效文字吗",
+      "canonicalText": "检查一下，会有行文拖沓、无效文字吗",
+      "images": [],
+      "contentDigest": "8d93059a1eaccb3b49cfd8a3f588a0ce50c1b4acc3735cce9977ac3d1ac87931",
+      "providerUserMessageId": "01a0526e-de38-7c53-b0b6-7b6632f0d835",
+      "providerAssistantMessageId": "msg_0dc2b44c6c7a2bb5016a94147541c887d1859a4a837c458e99"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788090153924-2vtotuy",
+      "userTurnOrdinal": 28,
+      "state": "accepted",
+      "localMessageId": "msg-1788090153911-aan8pum",
+      "timestamp": 1788090153911,
+      "rawDisplayText": "现在呢",
+      "canonicalText": "现在呢",
+      "images": [],
+      "contentDigest": "39f7dc070e72448d1825ba473f711f40786c753381b66c1e728577e5ea3591d9",
+      "providerUserMessageId": "01a0527a-7c7b-7a81-be69-83267ba0c47c",
+      "providerAssistantMessageId": "msg_064a71ef13003baa016a94175f894887d1b36a0dd51f3de2be"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788090423641-1nxvfen",
+      "userTurnOrdinal": 29,
+      "state": "accepted",
+      "localMessageId": "msg-1788090423625-icbnbdu",
+      "timestamp": 1788090423625,
+      "rawDisplayText": "现在呢",
+      "canonicalText": "现在呢",
+      "images": [],
+      "contentDigest": "39f7dc070e72448d1825ba473f711f40786c753381b66c1e728577e5ea3591d9",
+      "providerUserMessageId": "01a0527e-99b9-73a1-97c1-71e61c3ba83c",
+      "providerAssistantMessageId": "msg_07efd4a086a25992016a9418637dec87d1b4ed6a37fab007f3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788090629042-d87kq2v",
+      "userTurnOrdinal": 30,
+      "state": "accepted",
+      "localMessageId": "msg-1788090629027-g3hxlhk",
+      "timestamp": 1788090629027,
+      "rawDisplayText": "1、7改吧，其他的保留",
+      "canonicalText": "1、7改吧，其他的保留",
+      "images": [],
+      "contentDigest": "a9b049c5e5567e5f5db48f09140619923122472e5879806713d839e06b4aaa60",
+      "providerUserMessageId": "01a05281-bc0e-77f3-8ae0-7c8cd998f4c5",
+      "providerAssistantMessageId": "msg_0c84e3add2b9386f016a941915bb5c87d2b5e8e4854951366e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788091638135-e7cytpo",
+      "userTurnOrdinal": 31,
+      "state": "accepted",
+      "localMessageId": "msg-1788091638110-x44s006",
+      "timestamp": 1788091638110,
+      "rawDisplayText": "解释一下，对尊贵的客人提出这种无理的要求，可能会因此丢掉工作",
+      "canonicalText": "解释一下，对尊贵的客人提出这种无理的要求，可能会因此丢掉工作",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第001章 她的梦想实现了.md",
+          "mode": "selection",
+          "selectedText": "方才引路的工作人员认出了她，直到电梯门合拢也没敢提出合影。",
+          "lineCount": 1,
+          "startLine": 16
+        }
+      },
+      "images": [],
+      "contentDigest": "8f7404e1dd351b987d3bc084f764e704e1ff942ef86a59c934a4340d8a8df626",
+      "providerUserMessageId": "01a05291-227d-78c0-8a19-1f36870f9fc3",
+      "providerAssistantMessageId": "msg_0e6eb8081aa341e5016a941d0dd05887d29ba5c142680cdb21"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788136163739-urra8n4",
+      "userTurnOrdinal": 32,
+      "state": "accepted",
+      "localMessageId": "msg-1788136163716-2kpy9zh",
+      "timestamp": 1788136163716,
+      "rawDisplayText": "这一章命名为什么",
+      "canonicalText": "这一章命名为什么",
+      "images": [],
+      "contentDigest": "82993c13471c526a825b8c39f9c28b405059f02f5ab2edce920dd54f192ddaf7",
+      "providerUserMessageId": "01a05538-8b67-7a61-9a68-84115191af1b",
+      "providerAssistantMessageId": "msg_0bd8aa260f61e14b016a94caeb406087d1ac0794da2a184893"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788136195258-1wiobfk",
+      "userTurnOrdinal": 33,
+      "state": "accepted",
+      "localMessageId": "msg-1788136195238-d2idmbk",
+      "timestamp": 1788136195238,
+      "rawDisplayText": "非常普通的名字",
+      "canonicalText": "非常普通的名字",
+      "images": [],
+      "contentDigest": "01c9a1c959f8e57fd6b8260d9ae916f91b389fb67b72bd8b7055ce7dc976f8e3",
+      "providerUserMessageId": "01a05539-0580-7dd0-b9c6-c12c56e2421e",
+      "providerAssistantMessageId": "msg_0558eeafd67c6a1c016a94cb11084887d1a8e09716f2243f06"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788136381741-9y5cbha",
+      "userTurnOrdinal": 34,
+      "state": "accepted",
+      "localMessageId": "msg-1788136381725-5vdwl56",
+      "timestamp": 1788136381725,
+      "rawDisplayText": "接下来第二章怎么写",
+      "canonicalText": "接下来第二章怎么写",
+      "images": [],
+      "contentDigest": "19deec447d21cf3bc2e083bfc8cb18fb9868f42cb8ec85f64045eb02c1ef8f6f",
+      "providerUserMessageId": "01a0553b-ddb8-7412-8573-5346d4cf5151",
+      "providerAssistantMessageId": "msg_0f855d8fb78a94fe016a94cbfcf31c87d2afebdcec6944278c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788140240546-ytj3kf5",
+      "userTurnOrdinal": 35,
+      "state": "accepted",
+      "localMessageId": "msg-1788140240518-q8ac294",
+      "timestamp": 1788140240518,
+      "rawDisplayText": "大致可以。剧情我再捋一下。\n1. 许青禾从东京回到家，半夜喝水时，看到冰箱贴，想着那张冰冷的脸，没看到一丝丝哀伤。是在坚强吗？但你的坚强刺痛我了。\n萧云策，从此我们一刀两断！\n2. 然后，其实五年前，她也是这么说。然后跳到5年前。\n3. 5年前开篇她就被炒鱿鱼。用简单描写她带的团队训练出来的智能客服，把他们团队取代了。\n4. 她本是双一流市场营销高材生，出门答辩时，安排个其它人的意外，把她的数据弄丢了，答辩时评委认为她造假，坑了她一把，导致她延毕。\n第二年，学长利用职务之便，把脱敏的数据和案例给她，论文答辩圆满成功。\n5. 但是因为延毕，很多公司根本过不了简历关。所以当初这个国企给了机会自己，还以为它是个开放和包容的企业，虽然工资低，但也抱着感恩。\n6. 没想到公司会吃干抹净。下属们首先是埋怨公司，公司自然不会鸟她们。转头开始消息轰炸许青禾，那些加班加点训练AI的夜晚，像是赶着赴死。\n7. 收到消息那天是情人节，她此时此刻很需要一个肩膀来依靠。但是给萧云策打了电话，发了消息，但依旧像是一个小丑。\n8. 她找闺蜜沈兰因吃饭。沈兰因说我早说他不是个什么好东西。知道的还说他忙，不知道的还以为你是舔狗。劝你早分。\n她解释他是真的忙。\n沈兰因说，相交线之所以渐行渐远，不是因为它们拥有各自的方向，而是因为相遇之后，没有选择向对方转弯。\n9. 虽然沈兰因母胎solo二十四年，但她确实说得对。她像是在在机场等船，不是坚持就会结果。\n萧云策，我们就此别过吧。\n她给他发了消息，依旧没有回声。\n但她却无比轻松。像是二十三年前，呱呱坠地，一无所有，但却每一步都是新的收获。\n10. 跟沈兰因分别后，她在海边散步，看到有个老大爷在买花，她觉得给自己买一束玫瑰，但没有发现收款码刷不了信用卡。大爷叫她放回去的时候，她身旁的法拉利上走下一个阳光帅哥，给了大爷100块，说不用找。跟许青禾说，女孩子的玫瑰，怎么可以自己买。\n11. 许青禾说加一下微信，改天还给他。他随即开了副驾的门，一个衣着华丽的女孩坐了进去，是当红女星方琳！星动体育集团的全球代言人。她刚喊出“方... ...”\n12. 他用手指轻轻抵住许青禾的嘴巴，“嘘！不用了，就当是保密的礼物”",
+      "canonicalText": "大致可以。剧情我再捋一下。\n1. 许青禾从东京回到家，半夜喝水时，看到冰箱贴，想着那张冰冷的脸，没看到一丝丝哀伤。是在坚强吗？但你的坚强刺痛我了。\n萧云策，从此我们一刀两断！\n2. 然后，其实五年前，她也是这么说。然后跳到5年前。\n3. 5年前开篇她就被炒鱿鱼。用简单描写她带的团队训练出来的智能客服，把他们团队取代了。\n4. 她本是双一流市场营销高材生，出门答辩时，安排个其它人的意外，把她的数据弄丢了，答辩时评委认为她造假，坑了她一把，导致她延毕。\n第二年，学长利用职务之便，把脱敏的数据和案例给她，论文答辩圆满成功。\n5. 但是因为延毕，很多公司根本过不了简历关。所以当初这个国企给了机会自己，还以为它是个开放和包容的企业，虽然工资低，但也抱着感恩。\n6. 没想到公司会吃干抹净。下属们首先是埋怨公司，公司自然不会鸟她们。转头开始消息轰炸许青禾，那些加班加点训练AI的夜晚，像是赶着赴死。\n7. 收到消息那天是情人节，她此时此刻很需要一个肩膀来依靠。但是给萧云策打了电话，发了消息，但依旧像是一个小丑。\n8. 她找闺蜜沈兰因吃饭。沈兰因说我早说他不是个什么好东西。知道的还说他忙，不知道的还以为你是舔狗。劝你早分。\n她解释他是真的忙。\n沈兰因说，相交线之所以渐行渐远，不是因为它们拥有各自的方向，而是因为相遇之后，没有选择向对方转弯。\n9. 虽然沈兰因母胎solo二十四年，但她确实说得对。她像是在在机场等船，不是坚持就会结果。\n萧云策，我们就此别过吧。\n她给他发了消息，依旧没有回声。\n但她却无比轻松。像是二十三年前，呱呱坠地，一无所有，但却每一步都是新的收获。\n10. 跟沈兰因分别后，她在海边散步，看到有个老大爷在买花，她觉得给自己买一束玫瑰，但没有发现收款码刷不了信用卡。大爷叫她放回去的时候，她身旁的法拉利上走下一个阳光帅哥，给了大爷100块，说不用找。跟许青禾说，女孩子的玫瑰，怎么可以自己买。\n11. 许青禾说加一下微信，改天还给他。他随即开了副驾的门，一个衣着华丽的女孩坐了进去，是当红女星方琳！星动体育集团的全球代言人。她刚喊出“方... ...”\n12. 他用手指轻轻抵住许青禾的嘴巴，“嘘！不用了，就当是保密的礼物”",
+      "images": [],
+      "contentDigest": "654af53f87b633d29b3b3017b29f405dcaf47a5f4e7c5f2b95f9eb648fb1243e",
+      "providerUserMessageId": "01a05576-bf66-7023-8219-ebe3496b6915",
+      "providerAssistantMessageId": "msg_0e81e7e920377b77016a94db24600487d08230ce9d3aa2b589"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788140456976-q1bu6dz",
+      "userTurnOrdinal": 36,
+      "state": "accepted",
+      "localMessageId": "msg-1788140456949-ld3nymq",
+      "timestamp": 1788140456949,
+      "rawDisplayText": "好，写出第2章",
+      "canonicalText": "好，写出第2章",
+      "images": [],
+      "contentDigest": "c8b1e730ca34a95679c84ebd3956ac309508a9ac8aea65dd7b1d6ed3ee522a1e",
+      "providerUserMessageId": "01a0557a-0cb2-72d1-84ce-82e8b90bbae0",
+      "providerAssistantMessageId": "msg_0ca84bd83374651c016a94dc70363c87d0847944f4f1b074f0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788140736357-lg331xw",
+      "userTurnOrdinal": 37,
+      "state": "accepted",
+      "localMessageId": "msg-1788140736339-g6dpxz3",
+      "timestamp": 1788140736339,
+      "rawDisplayText": "她在国企的经历，也是陈述就好了，不需要有对话和场景",
+      "canonicalText": "她在国企的经历，也是陈述就好了，不需要有对话和场景",
+      "images": [],
+      "contentDigest": "f687d935ee18443f0527dc0a5b150f8bf7e562644a1b8586fcd2541f3c0db429",
+      "providerUserMessageId": "01a0557e-4fc2-7d83-bf2b-b49c225cb789",
+      "providerAssistantMessageId": "msg_0c55600d3b621856016a94dd24f86087d0a51822a389fc7cdb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788140871865-88dbz3d",
+      "userTurnOrdinal": 38,
+      "state": "accepted",
+      "localMessageId": "msg-1788140871841-0tk9hse",
+      "timestamp": 1788140871841,
+      "rawDisplayText": "延毕也是纯陈述，不需要细节和场景。学长不需要出现名字",
+      "canonicalText": "延毕也是纯陈述，不需要细节和场景。学长不需要出现名字",
+      "images": [],
+      "contentDigest": "08d521e36c556c22e227f3f13c5bf0ccebf5897aa89e3b131e5228973c6b21cf",
+      "providerUserMessageId": "01a05580-611e-7ea1-ba07-cf73fbf3bf45",
+      "providerAssistantMessageId": "msg_09a6baf1f9fa36d1016a94dd81085887d0add006523020b362"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788141171561-nbqrmwq",
+      "userTurnOrdinal": 39,
+      "state": "accepted",
+      "localMessageId": "msg-1788141171541-vtjlxns",
+      "timestamp": 1788141171541,
+      "rawDisplayText": "总结一下第1章的创作过程、文字质感、行文特点，我需要提取出来，作为以后的章节写作参考",
+      "canonicalText": "总结一下第1章的创作过程、文字质感、行文特点，我需要提取出来，作为以后的章节写作参考",
+      "images": [],
+      "contentDigest": "61cd3a8d6b87320ff3cb57ca9999f4949eea01d72c161dddaa7b121717077ac7",
+      "providerUserMessageId": "01a05584-f3c2-7892-9d50-43c6e2e452e8",
+      "providerAssistantMessageId": "msg_0a97d918bd7e238b016a94ded21c1887d0b68bfa2f0ea02ba6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788141513553-1y728ct",
+      "userTurnOrdinal": 40,
+      "state": "accepted",
+      "localMessageId": "msg-1788141513525-3u31vhk",
+      "timestamp": 1788141513525,
+      "rawDisplayText": "0. 冷色视觉与氛围营造；\n1. 用“空位”和物件表达疼痛；\n2. 短句、留白、对白潜台词；\n3. 防止拖沓、重复；\n4. 剧情可以狗血，文字不能喧哗；关系可以复杂，叙述必须克制。\n先把这些作为全文行文基调，每次行文时需要自检",
+      "canonicalText": "0. 冷色视觉与氛围营造；\n1. 用“空位”和物件表达疼痛；\n2. 短句、留白、对白潜台词；\n3. 防止拖沓、重复；\n4. 剧情可以狗血，文字不能喧哗；关系可以复杂，叙述必须克制。\n先把这些作为全文行文基调，每次行文时需要自检",
+      "images": [],
+      "contentDigest": "4230db852e33c549d993e20a453f3f120c0330b10a3c391222432887564499c8",
+      "providerUserMessageId": "01a0558a-2bb7-7750-8914-5297a761332f",
+      "providerAssistantMessageId": "msg_00fff8b717f737c5016a94dffff62c87d098318fa8dd166a1d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788141641085-g3n4ts5",
+      "userTurnOrdinal": 41,
+      "state": "accepted",
+      "localMessageId": "msg-1788141641063-lh3mxyd",
+      "timestamp": 1788141641063,
+      "rawDisplayText": "如果我新开一个会话，新建一个章节，你会参考文字质感、项目立项案、准备包这些信息吗",
+      "canonicalText": "如果我新开一个会话，新建一个章节，你会参考文字质感、项目立项案、准备包这些信息吗",
+      "images": [],
+      "contentDigest": "b96202cabfbdea1938dff91583c6e0cf18f9215079ad5b77787df43d51358a28",
+      "providerUserMessageId": "01a0558c-1e21-7302-9442-58eb49e4eafc",
+      "providerAssistantMessageId": "msg_04aa5e7e6da30237016a94e05eea0487d0aa8fc671230ebe51"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788141772020-g97gt7p",
+      "userTurnOrdinal": 42,
+      "state": "accepted",
+      "localMessageId": "msg-1788141772000-wkmvn3m",
+      "timestamp": 1788141772000,
+      "rawDisplayText": "有没有一种方法，你可以行文前就知道要怎么写，而不是每次都要我提醒你",
+      "canonicalText": "有没有一种方法，你可以行文前就知道要怎么写，而不是每次都要我提醒你",
+      "images": [],
+      "contentDigest": "a72d6b3ee0208de7012f5071af69db225f6f1f8aa8de9c9722274a1573442224",
+      "providerUserMessageId": "01a0558e-1d4d-7bd1-91d3-a365eee56c60",
+      "providerAssistantMessageId": "msg_07ab84da6ceac1f5016a94e115b1ac87d0b312702b36559954"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788141870605-h32jjkc",
+      "userTurnOrdinal": 43,
+      "state": "accepted",
+      "localMessageId": "msg-1788141870571-9tv6qgc",
+      "timestamp": 1788141870571,
+      "rawDisplayText": "good",
+      "canonicalText": "good",
+      "images": [],
+      "contentDigest": "7ed59c5eb5d942401ad279ea50f07e4e9bcab042bdaeca0b633e71211740cc4d",
+      "providerUserMessageId": "01a0558f-9e7d-70b3-b18f-58ab965b8d3f",
+      "providerAssistantMessageId": "msg_099d073a3a69e96a016a94e132c78c87d0a2df2857d341c1f3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788141927420-lh4n67e",
+      "userTurnOrdinal": 44,
+      "state": "accepted",
+      "localMessageId": "msg-1788141927399-cn9wxa9",
+      "timestamp": 1788141927399,
+      "rawDisplayText": "基于AGENTS，重写第2章",
+      "canonicalText": "基于AGENTS，重写第2章",
+      "images": [],
+      "contentDigest": "e36903953d9fb55751db0339ae47e63b205c85c39a52b04690baf8b6f922a476",
+      "providerUserMessageId": "01a05590-7c6a-70e2-bcc6-4d47374dc841",
+      "providerAssistantMessageId": "msg_00ca3bdce526db8c016a94e1f05b3c87d0b4f8c2bc2379c6a2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788142832446-qpv5qa1",
+      "userTurnOrdinal": 45,
+      "state": "accepted",
+      "localMessageId": "msg-1788142832419-znkiuub",
+      "timestamp": 1788142832419,
+      "rawDisplayText": "这里写“杯子砸回台面，碰撞声干脆有力”，会不会好一点",
+      "canonicalText": "这里写“杯子砸回台面，碰撞声干脆有力”，会不会好一点",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章 一刀两断.md",
+          "mode": "selection",
+          "selectedText": "把杯子放回台面。",
+          "lineCount": 1,
+          "startLine": 17
+        }
+      },
+      "images": [],
+      "contentDigest": "aa1afc3e8d108a21ddb35cea034e8c21e9dea145e93724737fd0d6cc59d4e385",
+      "providerUserMessageId": "01a0559e-4bff-7d33-ba79-8f0ed22e95a3",
+      "providerAssistantMessageId": "msg_06611ac6c86f68df016a94e506697487d0a4172cad1c50628f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788142922186-k50dm4r",
+      "userTurnOrdinal": 46,
+      "state": "accepted",
+      "localMessageId": "msg-1788142922165-x2srnt9",
+      "timestamp": 1788142922165,
+      "rawDisplayText": "外表清冷克制，夜里、暗地里不用克制",
+      "canonicalText": "外表清冷克制，夜里、暗地里不用克制",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章 一刀两断.md",
+          "mode": "selection",
+          "selectedText": "把杯子放回台面。",
+          "lineCount": 1,
+          "startLine": 17
+        }
+      },
+      "images": [],
+      "contentDigest": "320a79ed8c9dce68a7d1e1141d992f1474c2bff2dff316e937cc168bdb298132",
+      "providerUserMessageId": "01a0559f-aa61-7553-8388-415d2cb3ae30",
+      "providerAssistantMessageId": "msg_015d3e7de37ccb41016a94e592797087d0ad9373751c9845dd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788143128383-nm7bjd5",
+      "userTurnOrdinal": 47,
+      "state": "accepted",
+      "localMessageId": "msg-1788143128362-kr4m1bd",
+      "timestamp": 1788143128362,
+      "rawDisplayText": "干净写得有点多了",
+      "canonicalText": "干净写得有点多了",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章 一刀两断.md",
+          "mode": "selection",
+          "selectedText": "五年前，许青禾在老旧国企的客服中心被裁。她是客服组长，手下十二个人；工资稳定，工作却远没有外界想的体面。她们每天戴着耳机，替系统故障、延迟业务和一切无权改变的规则道歉。\n\n公司接入人工智能客服后，她带着整个小组整理话术、标注情绪、录入不同语速的回答，又把最熟练的几个人留下来加班录音。机器最终用她教出来的语气，反复说着“很高兴为您服务”，接走了大半常规业务。\n\n人事把裁员写成《人才社会化输送确认书》。她签下名字，和她一起被替换的，还有那十二个曾经跟着她熬夜的人。\n\n下属先把怨气投向公司。公司没有回应，那些消息便转而砸向她，质问她为什么没有提前说，为什么让大家配合训练，为什么让她们把自己的位置亲手教给机器。\n\n她没有解释。\n\n那些加班到凌晨的夜晚，办公室只亮着一排灯。咖啡凉了又换，外卖盒堆在窗边。所有人像赶着赴死一样，一句句修改机器的停顿。\n\n她原以为自己是在教一台机器如何替人解决问题，最后才明白，公司只是让机器学会了如何替代她们。",
+          "lineCount": 13,
+          "startLine": 24
+        }
+      },
+      "images": [],
+      "contentDigest": "62c3d8a02f0e5048512516c5e67259d85a5b3e9132c5d842d26df997d4eeb897",
+      "providerUserMessageId": "01a055a2-cf9c-7f63-bb02-60c6a79df7d8",
+      "providerAssistantMessageId": "msg_0eaa6b7f998bb2a8016a94e64a0f8487d0a54847b0f2512e1c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788143779717-a9nwcx4",
+      "userTurnOrdinal": 48,
+      "state": "accepted",
+      "localMessageId": "msg-1788143779695-knbysdk",
+      "timestamp": 1788143779695,
+      "rawDisplayText": "看看现在我改的",
+      "canonicalText": "看看现在我改的",
+      "images": [],
+      "contentDigest": "5552ddfe0da366dca77c60543284dd9f99610785f5cd32469db83e842d7fc1f7",
+      "providerUserMessageId": "01a055ac-c017-7241-a76f-0fbee36bc15a",
+      "providerAssistantMessageId": "msg_0ac213feb4d5bc59016a94e8d1732487d0bb1c8091b864f8a9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788144728348-yw5hx2y",
+      "userTurnOrdinal": 49,
+      "state": "accepted",
+      "localMessageId": "msg-1788144728311-ecnn5f7",
+      "timestamp": 1788144728311,
+      "rawDisplayText": "后面接一下陆星朗的神态表情，人间天使",
+      "canonicalText": "后面接一下陆星朗的神态表情，人间天使",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章 一刀两断.md",
+          "mode": "selection",
+          "selectedText": "男人接过玫瑰，转手递给许青禾。",
+          "lineCount": 1,
+          "startLine": 198
+        }
+      },
+      "images": [],
+      "contentDigest": "4defaf88b56b9927dd1738d6f6e721e13cac70a598320a524aabea8f5ac58f48",
+      "providerUserMessageId": "01a055bb-3a1b-7183-adb1-e8b2a4b64c50",
+      "providerAssistantMessageId": "msg_0a23baba85939168016a94ec72af6887d2a6676e2c47404f46"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788144851218-cb9psal",
+      "userTurnOrdinal": 50,
+      "state": "accepted",
+      "localMessageId": "msg-1788144851195-1pt0h41",
+      "timestamp": 1788144851195,
+      "rawDisplayText": "看看我改的",
+      "canonicalText": "看看我改的",
+      "images": [],
+      "contentDigest": "3ad9d8d2150e982df3307fbcd2edde2f356a5d7fce8ffa85312e9efa79775f67",
+      "providerUserMessageId": "01a055bd-19d5-7fc1-8fd6-23138bbd9d8f",
+      "providerAssistantMessageId": "msg_0d17adeca727cebb016a94ecfc794c87d297567ed98217662b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788144983882-swni3as",
+      "userTurnOrdinal": 51,
+      "state": "accepted",
+      "localMessageId": "msg-1788144983859-xys58o3",
+      "timestamp": 1788144983859,
+      "rawDisplayText": "我想在这里写老大爷眼里的陆星朗，和许青禾眼里的陆星朗，并且形成呼应",
+      "canonicalText": "我想在这里写老大爷眼里的陆星朗，和许青禾眼里的陆星朗，并且形成呼应",
+      "images": [],
+      "contentDigest": "2a52a478d617d4a6d66fd76d93d564907b7e713f491315b9cc877e63d5a9d862",
+      "providerUserMessageId": "01a055bf-1fa1-7953-808a-f8eadee605c2",
+      "providerAssistantMessageId": "msg_0019cca97764808f016a94ee8c94ec87d2992ef166e72487a3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788145604748-xlvz9xr",
+      "userTurnOrdinal": 52,
+      "state": "accepted",
+      "localMessageId": "msg-1788145604723-5lyki5r",
+      "timestamp": 1788145604723,
+      "rawDisplayText": "衣着华丽，你写一下衣着外貌身材吧",
+      "canonicalText": "衣着华丽，你写一下衣着外貌身材吧",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章 一刀两断.md",
+          "mode": "selection",
+          "selectedText": "一个衣着华丽的年轻女人走到法拉利旁。长发卷得一丝不乱，钻石耳环在路灯下闪过一道冷光。",
+          "lineCount": 1,
+          "startLine": 212
+        }
+      },
+      "images": [],
+      "contentDigest": "3a22dda8c4f106d5a1b3bca2bba04022fbcaca435bd5effb6382e56df6c8f7b9",
+      "providerUserMessageId": "01a055c8-9905-76a0-bf37-3a171afdf8ac",
+      "providerAssistantMessageId": "msg_0651c7924acac89c016a94efed2b4087d18e7585d3c2ad13fb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788145831323-cssjvr5",
+      "userTurnOrdinal": 53,
+      "state": "accepted",
+      "localMessageId": "msg-1788145831285-cpfatxl",
+      "timestamp": 1788145831285,
+      "rawDisplayText": "要蔑视",
+      "canonicalText": "要蔑视",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章 一刀两断.md",
+          "mode": "selection",
+          "selectedText": "副驾驶的车门合上。方琳隔着车窗，向许青禾看了一眼。",
+          "lineCount": 1,
+          "startLine": 236
+        }
+      },
+      "images": [],
+      "contentDigest": "a18dbfee935cb28f76539b4e42f8b7875bc137ab258b7a8230acdf3b3427f878",
+      "providerUserMessageId": "01a055cc-0e04-7661-9574-d996ca5b0bbe",
+      "providerAssistantMessageId": "msg_0cff1c04690f479f016a94f0c3091087d19f6a9d46e11ddd86"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788146017011-rehkflh",
+      "userTurnOrdinal": 54,
+      "state": "accepted",
+      "localMessageId": "msg-1788146016986-may8e4i",
+      "timestamp": 1788146016986,
+      "rawDisplayText": "这样呢",
+      "canonicalText": "这样呢",
+      "images": [],
+      "contentDigest": "401d771c05c9d71ff15ebd9f5f31fdff3b56f1f745f532eef9a9b0b699644686",
+      "providerUserMessageId": "01a055ce-e378-76c0-9344-2b26cadad675",
+      "providerAssistantMessageId": "msg_09b58ff75132ff5c016a94f17e5c7087d2af755b1944771bcd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788146116447-d48f7kh",
+      "userTurnOrdinal": 55,
+      "state": "accepted",
+      "localMessageId": "msg-1788146116411-xywgely",
+      "timestamp": 1788146116411,
+      "rawDisplayText": "不了，我就喜欢这种似是而非的描写",
+      "canonicalText": "不了，我就喜欢这种似是而非的描写",
+      "images": [],
+      "contentDigest": "4b8b2a3c26627e5f3273ce091786d52da4ecde2e24f09e0ca04671cf8ccd51f9",
+      "providerUserMessageId": "01a055d0-67c7-79c3-a650-0b3e7cb05adb",
+      "providerAssistantMessageId": "msg_0288207b589865e3016a94f1cae9c887d2a950538a8942acd3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788146174477-xtufpyo",
+      "userTurnOrdinal": 56,
+      "state": "accepted",
+      "localMessageId": "msg-1788146174439-v9rc9m3",
+      "timestamp": 1788146174439,
+      "rawDisplayText": "重新整理一下仓库结构吧。\n我需要加入一个引子清单文件夹",
+      "canonicalText": "重新整理一下仓库结构吧。\n我需要加入一个引子清单文件夹",
+      "images": [],
+      "contentDigest": "c71a0846a422e5a0590ac1dc795d330f28f99558f3c32ed38e79bd83f4fa21c6",
+      "providerUserMessageId": "01a055d1-4a7b-7a50-a2d8-d81e0356ad23",
+      "providerAssistantMessageId": "msg_0f1d8e9a6377f506016a94f2f9e73c87d0be032d370178b792"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788146662721-lypn16z",
+      "userTurnOrdinal": 57,
+      "state": "accepted",
+      "localMessageId": "msg-1788146662678-2bopr7m",
+      "timestamp": 1788146662678,
+      "rawDisplayText": "加入一个引子，分手那天萧云策其实办完事，竭尽全力赶到了。但看到法拉利公子哥给她买玫瑰，想着她确实值得更好的，所以没露面。",
+      "canonicalText": "加入一个引子，分手那天萧云策其实办完事，竭尽全力赶到了。但看到法拉利公子哥给她买玫瑰，想着她确实值得更好的，所以没露面。",
+      "images": [],
+      "contentDigest": "c8361ce05b5b72f20cd77c11e787381f6b7e327c86e661e72c708275cb442f47",
+      "providerUserMessageId": "01a055d8-be0a-7c83-9a91-5c2ef54744d0",
+      "providerAssistantMessageId": "msg_091beb9f8a6b71cb016a94f40494d887d0b1f3375f897a269f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788146841286-2vjp5hg",
+      "userTurnOrdinal": 58,
+      "state": "accepted",
+      "localMessageId": "msg-1788146841257-bu00f40",
+      "timestamp": 1788146841257,
+      "rawDisplayText": "加入一个引子，在庆功宴上，方井彦为了不让陆星朗和许青禾跳开场舞，把红酒泼到许青禾身上，为什么不是泼陆星朗。因为泼了陆星朗，会有其他男的邀请许青禾，但是泼了许青禾，就只能邀请其它女嘉宾跳了。",
+      "canonicalText": "加入一个引子，在庆功宴上，方井彦为了不让陆星朗和许青禾跳开场舞，把红酒泼到许青禾身上，为什么不是泼陆星朗。因为泼了陆星朗，会有其他男的邀请许青禾，但是泼了许青禾，就只能邀请其它女嘉宾跳了。",
+      "images": [],
+      "contentDigest": "ca33c2024d8072f9f3765f6ae038f0701af5e11e54824c6e24720602ebc961e1",
+      "providerUserMessageId": "01a055db-7778-7582-a168-77f61c333aa8",
+      "providerAssistantMessageId": "msg_0444f4f86545acae016a94f4aaba9887d0b193f45896460045"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788146897590-3xpl2on",
+      "userTurnOrdinal": 59,
+      "state": "accepted",
+      "localMessageId": "msg-1788146897541-7onv5mv",
+      "timestamp": 1788146897541,
+      "rawDisplayText": "加入一个引子，红酒泼向许青禾时，保镖挡了下来，是他，萧云策！",
+      "canonicalText": "加入一个引子，红酒泼向许青禾时，保镖挡了下来，是他，萧云策！",
+      "images": [],
+      "contentDigest": "3f3219d64444460014b868e2f266a50df515cd611d16044659a50510d5807eb8",
+      "providerUserMessageId": "01a055dc-5325-7021-9485-aa1f68571c60",
+      "providerAssistantMessageId": "msg_0b21a5e7d96d0e20016a94f4e94b7087d0921e6e5597c14a28"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788146964830-wowod0o",
+      "userTurnOrdinal": 60,
+      "state": "accepted",
+      "localMessageId": "msg-1788146964787-dyj47o0",
+      "timestamp": 1788146964787,
+      "rawDisplayText": "综合来说，你觉得萧云策够惨吗",
+      "canonicalText": "综合来说，你觉得萧云策够惨吗",
+      "images": [],
+      "contentDigest": "535f27e002c32b80b4f4e33fe092f3af2d14b79a1e32d38d05226411718dd2fc",
+      "providerUserMessageId": "01a055dd-59f4-7861-9791-ef1d48c3df9c",
+      "providerAssistantMessageId": "msg_0618bf1895001588016a94f538d25487d0b5c4f9d12e0e13e0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788147078715-j6kb52i",
+      "userTurnOrdinal": 61,
+      "state": "accepted",
+      "localMessageId": "msg-1788147078686-7ped4w7",
+      "timestamp": 1788147078686,
+      "rawDisplayText": "如果要达到10/10，还需要怎么做",
+      "canonicalText": "如果要达到10/10，还需要怎么做",
+      "images": [],
+      "contentDigest": "5bb75e7afc257f01a253a1a78cabbe1079fd4cbf2b15c7b4f149d6c6c015f8f9",
+      "providerUserMessageId": "01a055df-16a2-75a1-8b2a-b3e6424de588",
+      "providerAssistantMessageId": "msg_09c82b05460fb5cf016a94f5ae473c87d09228899b549f48a7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788147319990-l54g65r",
+      "userTurnOrdinal": 62,
+      "state": "accepted",
+      "localMessageId": "msg-1788147319948-o7r5xp8",
+      "timestamp": 1788147319948,
+      "rawDisplayText": "你提到一个很好的点，就是每次都出现复合机会的时候，都会有其它事情挡住萧云策",
+      "canonicalText": "你提到一个很好的点，就是每次都出现复合机会的时候，都会有其它事情挡住萧云策",
+      "images": [],
+      "contentDigest": "191fb633a115f478e1499ded90c7f53d9add23dffd9a478f44ec8b1d8923d868",
+      "providerUserMessageId": "01a055e2-c541-7931-a0fd-d9000681951f",
+      "providerAssistantMessageId": "msg_03dff6fb89de968f016a94f695452c87d083fd41b6053c43e2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788147362385-m6hjkrz",
+      "userTurnOrdinal": 63,
+      "state": "accepted",
+      "localMessageId": "msg-1788147362349-o77v9zc",
+      "timestamp": 1788147362349,
+      "rawDisplayText": "进而扩展到，每当他要幸福的时候，都会被无情摧毁",
+      "canonicalText": "进而扩展到，每当他要幸福的时候，都会被无情摧毁",
+      "images": [],
+      "contentDigest": "7456584a7ef1e96062d5c666cb314ab53213fe823c1b095459ad2b12bada1b95",
+      "providerUserMessageId": "01a055e3-6ac9-7cf0-935d-d770bab9b8fc",
+      "providerAssistantMessageId": "msg_0390b1e44ff42f06016a94f6bbc79887d0b375abee30956fc0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788147417655-pfwpc46",
+      "userTurnOrdinal": 64,
+      "state": "accepted",
+      "localMessageId": "msg-1788147417623-wukwa61",
+      "timestamp": 1788147417623,
+      "rawDisplayText": "你帮我把这些记下来",
+      "canonicalText": "你帮我把这些记下来",
+      "images": [],
+      "contentDigest": "7075b40a785dba4d85bc5934a2f8b8caf510bead810b0040572bb5933bb5f174",
+      "providerUserMessageId": "01a055e4-42a6-7981-8178-5f507b30cec1",
+      "providerAssistantMessageId": "msg_0c9ac8e67991db5f016a94f703eb1887d0ac9ab09228221fc7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788147520519-x7zr38k",
+      "userTurnOrdinal": 65,
+      "state": "accepted",
+      "localMessageId": "msg-1788147520482-qbnyrjv",
+      "timestamp": 1788147520482,
+      "rawDisplayText": "大纲的单个文件内容是不是太多了",
+      "canonicalText": "大纲的单个文件内容是不是太多了",
+      "images": [],
+      "contentDigest": "4cc1511be472ae2ca0ea66f896ad29a3ed5236f480ab36dfb2f0ad716a8c26f3",
+      "providerUserMessageId": "01a055e5-d475-7550-bb30-159459834fe4",
+      "providerAssistantMessageId": "msg_033f1a43d2cc5411016a94f75704d087d09a566bb717790dc7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788147587909-uet7c7d",
+      "userTurnOrdinal": 66,
+      "state": "accepted",
+      "localMessageId": "msg-1788147587867-jvdthr2",
+      "timestamp": 1788147587867,
+      "rawDisplayText": "拆吧",
+      "canonicalText": "拆吧",
+      "images": [],
+      "contentDigest": "8b6e7409eeaa908891ece40324e016f0ab3239872799ac20eb7b2c1c8955da9d",
+      "providerUserMessageId": "01a055e6-dba9-7030-8066-256212741cf5",
+      "providerAssistantMessageId": "msg_01f638bf4ae19fa1016a94f9229a6487d2a41fb29f715d2df7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788148674925-yayuyib",
+      "userTurnOrdinal": 67,
+      "state": "accepted",
+      "localMessageId": "msg-1788148674890-xks74cn",
+      "timestamp": 1788148674890,
+      "rawDisplayText": "加入引子，方琳去芯动拍广告，方井彦知道后，组织总经理办公室员工晨运，并穿了当天方琳同款广告套装。在方琳缺席后，让许青禾送东西到影棚，被陆星朗看到，气质、形象非常符合，为了避免损失，就让许青禾直接去拍摄了",
+      "canonicalText": "加入引子，方琳去芯动拍广告，方井彦知道后，组织总经理办公室员工晨运，并穿了当天方琳同款广告套装。在方琳缺席后，让许青禾送东西到影棚，被陆星朗看到，气质、形象非常符合，为了避免损失，就让许青禾直接去拍摄了",
+      "images": [],
+      "contentDigest": "d4e2203991fb0f9a8512fef47feb810c24b3aca80b76d94e5a7f670864c2096a",
+      "providerUserMessageId": "01a055f7-720e-7c03-971a-f663fa88cf8e",
+      "providerAssistantMessageId": "msg_034d1ae0a7d98c58016a94fbfa47e887d180e767c0bbb90a97"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788148873646-qi3e437",
+      "userTurnOrdinal": 68,
+      "state": "accepted",
+      "localMessageId": "msg-1788148873595-hui6eo3",
+      "timestamp": 1788148873595,
+      "rawDisplayText": "加入引子，看到许青禾已经站在镜头前。方井彦给方琳发信息，跟她说不用担心，他会给她介绍最好的医美医生",
+      "canonicalText": "加入引子，看到许青禾已经站在镜头前。方井彦给方琳发信息，跟她说不用担心，他会给她介绍最好的医美医生",
+      "images": [],
+      "contentDigest": "12b3a1b8dd9a9699de66d7bb8c96085fda9cd3449bba3d16d2f1fbc1fccac6ae",
+      "providerUserMessageId": "01a055fa-7a57-7861-97e5-dc765785fbe9",
+      "providerAssistantMessageId": "msg_001e73fde0634830016a94fcba5d3487d2b0b15cb42675d47d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788149088630-u9h7kir",
+      "userTurnOrdinal": 69,
+      "state": "accepted",
+      "localMessageId": "msg-1788149088576-qll3uox",
+      "timestamp": 1788149088576,
+      "rawDisplayText": "加入引子，许青禾大热后，有导演邀约谈合作，但图谋不轨。陆星朗知道后，直接官宣许青禾是他女朋友。第二天传出导演被打入院的新闻。方井彦心中疑惑，我是打算教训他一下，但还没摇人呢。",
+      "canonicalText": "加入引子，许青禾大热后，有导演邀约谈合作，但图谋不轨。陆星朗知道后，直接官宣许青禾是他女朋友。第二天传出导演被打入院的新闻。方井彦心中疑惑，我是打算教训他一下，但还没摇人呢。",
+      "images": [],
+      "contentDigest": "dc3c804296d585f74a1229693568760c635c02e2bc24e6c7c63788fdcef98f9a",
+      "providerUserMessageId": "01a055fd-c224-7641-8f82-e257dd06e91a",
+      "providerAssistantMessageId": "msg_0f8d7dd4cd1c3ba2016a94fd83eb4087d2810cd78a368c7ea3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788149197291-2l03g2m",
+      "userTurnOrdinal": 70,
+      "state": "accepted",
+      "localMessageId": "msg-1788149197240-k19ws1c",
+      "timestamp": 1788149197240,
+      "rawDisplayText": "我的意图是知道这件事，陆星朗、方井彦、萧云策三个人的不用做法",
+      "canonicalText": "我的意图是知道这件事，陆星朗、方井彦、萧云策三个人的不用做法",
+      "images": [],
+      "contentDigest": "edf764b36b6acf244f4ae7d6b9f7f79b5d47885923002a2a549e99db47ec3e62",
+      "providerUserMessageId": "01a055ff-6a58-7b62-9be2-5c5797042422",
+      "providerAssistantMessageId": "msg_010b55f03dacb1fb016a94fdf6320c87d2b8c4fa6282ef4578"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788149289138-wnlp0th",
+      "userTurnOrdinal": 71,
+      "state": "accepted",
+      "localMessageId": "msg-1788149289088-8tyqt17",
+      "timestamp": 1788149289088,
+      "rawDisplayText": "但因为萧云策是陆星朗保镖，会不会有人认为是陆星朗指使了萧云策",
+      "canonicalText": "但因为萧云策是陆星朗保镖，会不会有人认为是陆星朗指使了萧云策",
+      "images": [],
+      "contentDigest": "8e4fa77984e17b550d7aa3d572e75123e0cc2fd842fd9b26c1a84b823e8bfcac",
+      "providerUserMessageId": "01a05600-d121-70d2-8a65-1bd40746adc2",
+      "providerAssistantMessageId": "msg_0619badfcb9903de016a94fe47966887d285b08f5ade7e625f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788149425193-2tavq3u",
+      "userTurnOrdinal": 72,
+      "state": "accepted",
+      "localMessageId": "msg-1788149425155-mxv74hn",
+      "timestamp": 1788149425155,
+      "rawDisplayText": "你觉得这个引子要不要改一下。萧云策先不要出现好了，把这个引子放在酒会挡酒之前吧。这样就不会误会是陆星朗了",
+      "canonicalText": "你觉得这个引子要不要改一下。萧云策先不要出现好了，把这个引子放在酒会挡酒之前吧。这样就不会误会是陆星朗了",
+      "images": [],
+      "contentDigest": "d81bca220c28054c47536d4591d4f10a7fd554ce1a04b8abe1155a544fedadc4",
+      "providerUserMessageId": "01a05602-e483-7e13-86c7-15de454f360b",
+      "providerAssistantMessageId": "msg_0586aab0e4ceb5d1016a94fee5c09087d18d2b9c6c0e8d529c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788149492763-hb3blk3",
+      "userTurnOrdinal": 73,
+      "state": "accepted",
+      "localMessageId": "msg-1788149492726-pmwhgf8",
+      "timestamp": 1788149492726,
+      "rawDisplayText": "nice",
+      "canonicalText": "nice",
+      "images": [],
+      "contentDigest": "0a112f8ddb9af5fc5089ad417e19edb4f659e693e2cc38f037e4b3c93cd26dcb",
+      "providerUserMessageId": "01a05603-ec78-7862-a645-6c7db343129a",
+      "providerAssistantMessageId": "msg_076aa493a9c9a0a5016a94fef8942087d1a8e1f872f1bfdd79"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788149511866-v3esrkv",
+      "userTurnOrdinal": 74,
+      "state": "accepted",
+      "localMessageId": "msg-1788149511814-xtkqrsg",
+      "timestamp": 1788149511814,
+      "rawDisplayText": "第3章怎么写",
+      "canonicalText": "第3章怎么写",
+      "images": [],
+      "contentDigest": "28b41e7661595c3caa59ab0773d02b889c582b7b14078b05d7d13c2a59982486",
+      "providerUserMessageId": "01a05604-3729-7890-8598-5b3e7dd38f0d",
+      "providerAssistantMessageId": "msg_0e8e5ceb9e57b5b2016a94ff5422c087d18541a0e07a705db3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788149854845-t4uoywt",
+      "userTurnOrdinal": 75,
+      "state": "accepted",
+      "localMessageId": "msg-1788149854806-fygnowv",
+      "timestamp": 1788149854806,
+      "rawDisplayText": "1. 许青禾获得了芯动科技公司的总经理面试邀请；\n2. 她面试的岗位是，总经理助理；\n3. 方井彦组织的晨运，是总经理办公室全体员工的晨运，并且所有人都穿上广告套装；",
+      "canonicalText": "1. 许青禾获得了芯动科技公司的总经理面试邀请；\n2. 她面试的岗位是，总经理助理；\n3. 方井彦组织的晨运，是总经理办公室全体员工的晨运，并且所有人都穿上广告套装；",
+      "images": [],
+      "contentDigest": "697e660dde10fbeb98a242e3193625b77e02243e1c411372368d3dff4da52ec1",
+      "providerUserMessageId": "01a05609-72dc-7310-bf8a-b1ab04f953ea",
+      "providerAssistantMessageId": "msg_0ef0824618af8bac016a9500bf457087d19e0da5f14fc15578"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788150160143-tp4cx2n",
+      "userTurnOrdinal": 76,
+      "state": "accepted",
+      "localMessageId": "msg-1788150160086-y1ge4ys",
+      "timestamp": 1788150160086,
+      "rawDisplayText": "之前的名字叫芯动力吗",
+      "canonicalText": "之前的名字叫芯动力吗",
+      "images": [],
+      "contentDigest": "47cf1fafa035a29dc5b718531a72fa15d002f51ca454add1ffa0d0a1f2cc03fc",
+      "providerUserMessageId": "01a0560e-1b7c-7a33-bb91-b02a6b3c3a61",
+      "providerAssistantMessageId": "msg_05b37ead512dec53016a95019d3ef887d2bc4a4a296ba26192"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788151542352-olgqkmz",
+      "userTurnOrdinal": 77,
+      "state": "accepted",
+      "localMessageId": "msg-1788151542295-mdhii0o",
+      "timestamp": 1788151542295,
+      "rawDisplayText": "那还是叫芯动力吧",
+      "canonicalText": "那还是叫芯动力吧",
+      "images": [],
+      "contentDigest": "842039e88bcdf52fed0c2bc3a6234a9fdc68b594a3a780a5a218e5b0b58c36ba",
+      "providerUserMessageId": "01a05623-3323-7321-ad3d-9860217b8328",
+      "providerAssistantMessageId": "msg_01347d0992235ac5016a9507254b6087d2bb4c3e4f66a205f1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788151766676-huee3jl",
+      "userTurnOrdinal": 78,
+      "state": "accepted",
+      "localMessageId": "msg-1788151766616-5vdf7uk",
+      "timestamp": 1788151766616,
+      "rawDisplayText": "那萧云策没人爱吗",
+      "canonicalText": "那萧云策没人爱吗",
+      "images": [],
+      "contentDigest": "1bdff990acb43005aa200e1dbd5e0f017294f5bea4c841f96e5992ebbbe54aca",
+      "providerUserMessageId": "01a05626-9f47-7881-985a-1b6928ba4f08",
+      "providerAssistantMessageId": "msg_0f220c9c3dce0079016a9507e4d8e887d2a6b2d404f9e1eabd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788152057865-gfsfnda",
+      "userTurnOrdinal": 79,
+      "state": "accepted",
+      "localMessageId": "msg-1788152057805-byt71jy",
+      "timestamp": 1788152057805,
+      "rawDisplayText": "1. 萧兰不爱他，只是把他当做复仇陆知远的工具；\n2. 方井彦不爱他，知道他不一样复仇之后，把他视为眼中钉；\n3. 许青禾不能爱他，因为她跟陆星朗在一起了，萧云策前期的克制也让她心灰意冷；\n4. 沈兰因爱他，真香代表人物，残废后沈兰因带他移民",
+      "canonicalText": "1. 萧兰不爱他，只是把他当做复仇陆知远的工具；\n2. 方井彦不爱他，知道他不一样复仇之后，把他视为眼中钉；\n3. 许青禾不能爱他，因为她跟陆星朗在一起了，萧云策前期的克制也让她心灰意冷；\n4. 沈兰因爱他，真香代表人物，残废后沈兰因带他移民",
+      "images": [],
+      "contentDigest": "6ac937d9f89994acd40e3e9324d73a905843a5cc6ba306865e90437096b9cc5c",
+      "providerUserMessageId": "01a0562b-106c-7703-bec2-633657cbd390",
+      "providerAssistantMessageId": "msg_0e3efa6b49ffa57b016a9509b5dc3487d1806e94a2583cd7c9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788152529143-8s8644r",
+      "userTurnOrdinal": 80,
+      "state": "accepted",
+      "localMessageId": "msg-1788152529085-j8m3s9r",
+      "timestamp": 1788152529085,
+      "rawDisplayText": "沈兰因是个洒脱的独立女性，喜欢怼人和流浪，知道萧云策残废之后，委任他为安保总监，邀请他去东南亚开旅馆",
+      "canonicalText": "沈兰因是个洒脱的独立女性，喜欢怼人和流浪，知道萧云策残废之后，委任他为安保总监，邀请他去东南亚开旅馆",
+      "images": [],
+      "contentDigest": "41ea69b3f1e65aa76022d9316266cd194eecd13cadde5bbc612a943401224065",
+      "providerUserMessageId": "01a05632-416d-7633-a01b-9d666b4b5d60",
+      "providerAssistantMessageId": "msg_08b9fa172c98aa89016a950c108bd087d1b97f51f9cfd00b95"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788155426577-lskglr1",
+      "userTurnOrdinal": 81,
+      "state": "accepted",
+      "localMessageId": "msg-1788155426533-h4dl6lj",
+      "timestamp": 1788155426533,
+      "rawDisplayText": "需要吧花摊安排在巨幅广告牌下吗？广告牌就是方琳的跑步鞋广告",
+      "canonicalText": "需要吧花摊安排在巨幅广告牌下吗？广告牌就是方琳的跑步鞋广告",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "海边的花摊还没有收。",
+          "lineCount": 1,
+          "startLine": 160
+        }
+      },
+      "images": [],
+      "contentDigest": "f561efcbceac94e028ea504c767b8e7f3cd32b3bdd8aba9916aa6c089165c76a",
+      "providerUserMessageId": "01a0565e-77d8-7bb2-afe9-9833d16881c9",
+      "providerAssistantMessageId": "msg_0dcb0e6119be6640016a951644e0e887d28f63cd725dcd5b86"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788155549850-d77y88o",
+      "userTurnOrdinal": 82,
+      "state": "accepted",
+      "localMessageId": "msg-1788155549804-wjp4mi0",
+      "timestamp": 1788155549804,
+      "rawDisplayText": "她认出了那张脸。\n\n方琳。\n\n然后写一下她仿佛从广告牌中走出来一样",
+      "canonicalText": "她认出了那张脸。\n\n方琳。\n\n然后写一下她仿佛从广告牌中走出来一样",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "海边的花摊还没有收。",
+          "lineCount": 1,
+          "startLine": 160
+        }
+      },
+      "images": [],
+      "contentDigest": "7c421fb1b17afba78c388aef77b6b52dcd4b147c195d5caa654e6830bd2a3ad9",
+      "providerUserMessageId": "01a05660-593f-7b03-af78-682946156af4",
+      "providerAssistantMessageId": "msg_0fce6a0ad861fcae016a95170c4c0c87d1babc28d14c9883ba"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788156095116-2rmfuel",
+      "userTurnOrdinal": 83,
+      "state": "accepted",
+      "localMessageId": "msg-1788156095068-ae59g6x",
+      "timestamp": 1788156095068,
+      "rawDisplayText": "这个要放在“老人眼睛亮了起来“前面吗",
+      "canonicalText": "这个要放在“老人眼睛亮了起来“前面吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "是财神来了吗？",
+          "lineCount": 1,
+          "startLine": 196
+        }
+      },
+      "images": [],
+      "contentDigest": "186c413b7ad1a104d26a8c474706b8e7d41b13b72afa6a28aed9bc9bd57efe7d",
+      "providerUserMessageId": "01a05668-aafd-7060-8408-475e54e1077a",
+      "providerAssistantMessageId": "msg_0c65e675b94c2a3b016a9518e1599c87d2a00c5b08817f4f72"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788156173058-qewsqmt",
+      "userTurnOrdinal": 84,
+      "state": "accepted",
+      "localMessageId": "msg-1788156173011-8bkp14f",
+      "timestamp": 1788156173011,
+      "rawDisplayText": "是天使来了吗？这一句的顺序要调吗",
+      "canonicalText": "是天使来了吗？这一句的顺序要调吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "是天使来了吗？",
+          "lineCount": 1,
+          "startLine": 204
+        }
+      },
+      "images": [],
+      "contentDigest": "699181efa235bee21f4fddb505a7e425aacb82277b0bdd00833599c73df9745a",
+      "providerUserMessageId": "01a05669-db99-7c93-86ce-fecf42689177",
+      "providerAssistantMessageId": "msg_0a35d835d99ffff7016a951917523c87d1a22405440c83b0ba"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788156229194-5vdls5j",
+      "userTurnOrdinal": 85,
+      "state": "accepted",
+      "localMessageId": "msg-1788156229149-7hf4rp6",
+      "timestamp": 1788156229149,
+      "rawDisplayText": "好，你准备怎么写第3章",
+      "canonicalText": "好，你准备怎么写第3章",
+      "images": [],
+      "contentDigest": "7bfc4cf346a20d3d980c5ad658e8a0abef81b993c672d76db42b40c868523593",
+      "providerUserMessageId": "01a0566a-b6aa-7cd2-9012-2f4fe3de4ea8",
+      "providerAssistantMessageId": "msg_029d5e01c4346aa9016a9519d3371087d08fbb84e46316fe7f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788156558429-xdy00hy",
+      "userTurnOrdinal": 86,
+      "state": "accepted",
+      "localMessageId": "msg-1788156558383-jfuw79v",
+      "timestamp": 1788156558384,
+      "rawDisplayText": "是因为剧情已经足够了吗？感觉拍广告进入得有点晚",
+      "canonicalText": "是因为剧情已经足够了吗？感觉拍广告进入得有点晚",
+      "images": [],
+      "contentDigest": "84050e72f07d2b0256de044d3b5f23e8f3b4d1f234b3c7c44e1d4ffbc7e3f941",
+      "providerUserMessageId": "01a0566f-bcb8-73a0-9e3a-503cdbe6f43d",
+      "providerAssistantMessageId": "msg_06cd0ca26b47832a016a951acc1f1c87d0ac8227153ca243b7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788158891199-r8vmtdp",
+      "userTurnOrdinal": 87,
+      "state": "accepted",
+      "localMessageId": "msg-1788158891147-4ledzsm",
+      "timestamp": 1788158891147,
+      "rawDisplayText": "还是说这样，第3章主要写方井彦还是芯动力的市场部总监，招聘助理。许青禾应聘成功。\n在提升品牌形象方面，许青禾提倡主打年轻市场，由公司招募并组织活动，改为赞助城市兴趣团体，合作打造线上社群。并且借助AI的力量，功能使用要简单，达人分享、教程要丰富。\n这几套组合拳下来，芯动力销量上升得非常快，已经引起了多家体育用品集团的主意。\n这种强强联合，让方井彦、许青禾找回了以前学生会一起做活动的感觉。\n方井彦享受这种青春洋溢的感觉，许青禾觉得终于找对了平台。\n下班时，市场部去聚餐，方井彦在公司门口对面接许青禾。一辆迈巴赫 GLS 600在许青禾不远处停下来，许青禾感谢得鞠了一个躬。\n后座的人心想“是她？”",
+      "canonicalText": "还是说这样，第3章主要写方井彦还是芯动力的市场部总监，招聘助理。许青禾应聘成功。\n在提升品牌形象方面，许青禾提倡主打年轻市场，由公司招募并组织活动，改为赞助城市兴趣团体，合作打造线上社群。并且借助AI的力量，功能使用要简单，达人分享、教程要丰富。\n这几套组合拳下来，芯动力销量上升得非常快，已经引起了多家体育用品集团的主意。\n这种强强联合，让方井彦、许青禾找回了以前学生会一起做活动的感觉。\n方井彦享受这种青春洋溢的感觉，许青禾觉得终于找对了平台。\n下班时，市场部去聚餐，方井彦在公司门口对面接许青禾。一辆迈巴赫 GLS 600在许青禾不远处停下来，许青禾感谢得鞠了一个躬。\n后座的人心想“是她？”",
+      "images": [],
+      "contentDigest": "d0727f319cb8afc2e3f4e79402d8df1fd7a70f18219b0aeea380e590aa9d32aa",
+      "providerUserMessageId": "01a05693-55b1-7711-9caf-fa8eeebb27f3",
+      "providerAssistantMessageId": "msg_0975414ca5942f76016a9524013dac87d08e3f0610e43c01a3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788160671112-fhfnucz",
+      "userTurnOrdinal": 88,
+      "state": "accepted",
+      "localMessageId": "msg-1788160671060-55grddo",
+      "timestamp": 1788160671060,
+      "rawDisplayText": "一辆迈巴赫 GLS 600在许青禾不远处停下来，许青禾感谢得鞠了一个躬。\n后座的人心想“是她？”\n\n我明说吧，这个人是陆星朗，他跟他爸过来谈收购，但是只是埋了个钩子",
+      "canonicalText": "一辆迈巴赫 GLS 600在许青禾不远处停下来，许青禾感谢得鞠了一个躬。\n后座的人心想“是她？”\n\n我明说吧，这个人是陆星朗，他跟他爸过来谈收购，但是只是埋了个钩子",
+      "images": [],
+      "contentDigest": "614bc94af09e459d48e0e414d0fc986647482ee52cf4a2bd8fe6fc0e1c8f12b2",
+      "providerUserMessageId": "01a056ae-7e51-74a3-af9c-1e70b5ba3763",
+      "providerAssistantMessageId": "msg_07d3ab23f991d2da016a952ac062f487d0ad38fdafebb6d4cd"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788161006545-s7jd5bl",
+      "userTurnOrdinal": 89,
+      "state": "accepted",
+      "localMessageId": "msg-1788161006467-5grn754",
+      "timestamp": 1788161006467,
+      "rawDisplayText": "“但要写清楚：许青禾鞠躬是向方井彦道谢，不是向迈巴赫。”\nno，方井彦是接她下班，去聚餐。\n迈巴赫是礼让许青禾",
+      "canonicalText": "“但要写清楚：许青禾鞠躬是向方井彦道谢，不是向迈巴赫。”\nno，方井彦是接她下班，去聚餐。\n迈巴赫是礼让许青禾",
+      "images": [],
+      "contentDigest": "66f46ec90fd3892f89ae75ede99fa67e7674d9489370204232e601ba14b08cd9",
+      "providerUserMessageId": "01a056b3-9c68-7863-9f68-44684fbee4cc",
+      "providerAssistantMessageId": "msg_020a3897ec79e9f6016a952c00974487d0b9a0c91b443c9277"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788161080149-2ataey9",
+      "userTurnOrdinal": 90,
+      "state": "accepted",
+      "localMessageId": "msg-1788161080063-l1o8upu",
+      "timestamp": 1788161080063,
+      "rawDisplayText": "写出第三章吧",
+      "canonicalText": "写出第三章吧",
+      "images": [],
+      "contentDigest": "94a7efd6214a812ac9bf0fe37ac5167caf80027f709edf8679f2ed6703f03368",
+      "providerUserMessageId": "01a056b4-bbba-77f0-ba60-553d2a60fb51",
+      "providerAssistantMessageId": "msg_058ee59651c08588016a952f1ae00087d0b9e616392c20e337"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788162698511-4h73tqn",
+      "userTurnOrdinal": 91,
+      "state": "accepted",
+      "localMessageId": "msg-1788162698452-pzltc1c",
+      "timestamp": 1788162698452,
+      "rawDisplayText": "重写一下：\n1. 方井彦还是芯动力的市场部总监，招聘助理；\n2. 许青禾凭借扎实的功底，和常年和客户打交道的经验，知道如何捕捉市场情绪和需求。打动了市场部总监和人事HR；\n3. 许青禾收到两封邮件，一封是发放offer，一封是来自学长的祝贺，这个时候才说出方井彦的名字。\n4. 继续跟闺蜜海边约饭，通过闺蜜的嘴，简单描述一下芯动力这个当红炸子鸡，调侃该不会是学长看上你了，毕竟大学的时候，你们一个主席一个副主席，是大家眼中的金童玉女、黄金双枪。\n5. 许青禾觉得自己一直都有准备和练习，不管是回忆加了分，还是真材实料，机会来了，自己就应该牢牢把握，勇敢开始。\n6. 入职后第一件事就是，公司销量高，但主要是靠性价比，用户粘性不行，市场部要解决这个问题。\n7. 在提升品牌形象方面，许青禾提倡主打年轻市场，由公司招募并组织活动，改为赞助城市兴趣团体，合作打造线上社群。并且借助AI的力量，功能使用要简单，达人分享、教程要丰富。\n8. 这几套组合拳下来，芯动力销量上升得非常快，已经引起了多家体育用品集团的主意。\n9. 这种强强联合，让方井彦、许青禾找回了以前学生会一起做活动的感觉。\n方井彦享受这种青春洋溢的感觉，许青禾觉得终于找对了平台。\n10.下班时，市场部去聚餐，方井彦在公司门口对面接许青禾。一辆迈巴赫 GLS 600在许青禾不远处停下来，许青禾感谢得鞠了一个躬。\n后座的人心想“是她？”",
+      "canonicalText": "重写一下：\n1. 方井彦还是芯动力的市场部总监，招聘助理；\n2. 许青禾凭借扎实的功底，和常年和客户打交道的经验，知道如何捕捉市场情绪和需求。打动了市场部总监和人事HR；\n3. 许青禾收到两封邮件，一封是发放offer，一封是来自学长的祝贺，这个时候才说出方井彦的名字。\n4. 继续跟闺蜜海边约饭，通过闺蜜的嘴，简单描述一下芯动力这个当红炸子鸡，调侃该不会是学长看上你了，毕竟大学的时候，你们一个主席一个副主席，是大家眼中的金童玉女、黄金双枪。\n5. 许青禾觉得自己一直都有准备和练习，不管是回忆加了分，还是真材实料，机会来了，自己就应该牢牢把握，勇敢开始。\n6. 入职后第一件事就是，公司销量高，但主要是靠性价比，用户粘性不行，市场部要解决这个问题。\n7. 在提升品牌形象方面，许青禾提倡主打年轻市场，由公司招募并组织活动，改为赞助城市兴趣团体，合作打造线上社群。并且借助AI的力量，功能使用要简单，达人分享、教程要丰富。\n8. 这几套组合拳下来，芯动力销量上升得非常快，已经引起了多家体育用品集团的主意。\n9. 这种强强联合，让方井彦、许青禾找回了以前学生会一起做活动的感觉。\n方井彦享受这种青春洋溢的感觉，许青禾觉得终于找对了平台。\n10.下班时，市场部去聚餐，方井彦在公司门口对面接许青禾。一辆迈巴赫 GLS 600在许青禾不远处停下来，许青禾感谢得鞠了一个躬。\n后座的人心想“是她？”",
+      "images": [],
+      "contentDigest": "ea71205dfeb77d5219aff7942d0f37c6e6dea59ddf1b2dd0fbb79d3c50b7ea8b",
+      "providerUserMessageId": "01a056cd-6dfa-7c21-b070-d2dada13f079",
+      "providerAssistantMessageId": "msg_0b6f1898240d59fb016a95332fd35887d0b1852f85f0bb9b24"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788163351343-mm6dhj3",
+      "userTurnOrdinal": 92,
+      "state": "accepted",
+      "localMessageId": "msg-1788163351260-151p1qn",
+      "timestamp": 1788163351260,
+      "rawDisplayText": "篇幅太长咯，前两张都低于2300字",
+      "canonicalText": "篇幅太长咯，前两张都低于2300字",
+      "images": [],
+      "contentDigest": "47ff78b04895b748fba82d0bc7a557e23c704ac819e352f144406567e5bb6aa8",
+      "providerUserMessageId": "01a056d7-63fe-7cd3-85cd-0dc7a189bc6a",
+      "providerAssistantMessageId": "msg_0b414ef73c4a6685016a95355b586c87d0937062c350cfc48b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788163558474-uhzzqar",
+      "userTurnOrdinal": 93,
+      "state": "accepted",
+      "localMessageId": "msg-1788163558418-jxrx61e",
+      "timestamp": 1788163558418,
+      "rawDisplayText": "剧情点好像有点少了",
+      "canonicalText": "剧情点好像有点少了",
+      "images": [],
+      "contentDigest": "961eefad14248820efe0fad7a0b20f4a4f9f53b848096bb1ea908b9177784360",
+      "providerUserMessageId": "01a056da-8cba-7572-b6e1-756715f62cff",
+      "providerAssistantMessageId": "msg_07c76cd462ded14b016a953620cf6887d091869d16e95490be"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788163657132-xs5l9ca",
+      "userTurnOrdinal": 94,
+      "state": "accepted",
+      "localMessageId": "msg-1788163657075-r48kkh5",
+      "timestamp": 1788163657075,
+      "rawDisplayText": "许青禾跟方井彦的互动不是很够，方井彦对许青禾的感情没办法升温",
+      "canonicalText": "许青禾跟方井彦的互动不是很够，方井彦对许青禾的感情没办法升温",
+      "images": [],
+      "contentDigest": "42fc7921be6094df53511e6ac66005fdebf7af6dba7d861b857ba87ac30560e3",
+      "providerUserMessageId": "01a056dc-0e37-7ea3-8432-ffcc21ca6494",
+      "providerAssistantMessageId": "msg_05b697938b5642bb016a95369367d087d082eb1d3c62944ede"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788163742028-fj2l89e",
+      "userTurnOrdinal": 95,
+      "state": "accepted",
+      "localMessageId": "msg-1788163741947-oiij3l7",
+      "timestamp": 1788163741947,
+      "rawDisplayText": "我的定位是都市言情小说，对于运营细节不用过于详细，会干扰剧情发展",
+      "canonicalText": "我的定位是都市言情小说，对于运营细节不用过于详细，会干扰剧情发展",
+      "images": [],
+      "contentDigest": "2d077ef0c5015b9cea37381a5a5ff1cb5a0f8db08892a152524045c78a7a075f",
+      "providerUserMessageId": "01a056dd-5a04-7600-98b4-1dac712bcf93",
+      "providerAssistantMessageId": "msg_032515d6bb403f3a016a9536dbfe6887d0a0b216562f9ea63a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788166094341-03gjxjm",
+      "userTurnOrdinal": 96,
+      "state": "accepted",
+      "localMessageId": "msg-1788166094255-wo5xrme",
+      "timestamp": 1788166094255,
+      "rawDisplayText": "1. 许青禾坚持做社群和达人的原因，一是集体活动一次性成本过高，参与人员水平参差不齐，容易被贪小便宜的劣币驱逐良币。社群和达人支持计划，影响力广、精准投放。\n学长给她介绍原来的公司组织活动，效果是有的，但是活动后勤、参与人员都灰色地带，可能有抽水、付费雇人、用亲友供应商等操作。\n2. 安排个打酱油的角色吧，聚餐宴会上，大家借祝贺为由，轮流给许青禾敬酒。老油条小黄勇敢站出来，帮许青禾挡酒。第二天他就被开除了。\n3. 小黄想报复方井彦，为了躲过前台，从停车场上电梯。\n4. 停车场来了一辆迈巴赫 GLS 600，下来一个陆星朗、陆知远还有保镖。三人进电梯时，小黄也进来了。\n5. 小黄一直看着许青禾的照片，眼神变态，面容扭曲。\n6. 陆知远、陆星朗进了芯动力总经理办公室之后。小黄路过门口，被保镖拖到了厕所绑起来，并报了警。\n7. 警察把小黄带走之后，大家才知道，原来小黄是惯犯，基本来一个新的女同事，就会骚扰一个。小黄被带走时，大喊方井彦公报私仇。\n8. 许青禾和陆星朗的迈巴赫相遇，改为小黄被带走，许青禾惊魂未定，方井彦带她去楼下散心。回来路上碰到了迈巴赫。",
+      "canonicalText": "1. 许青禾坚持做社群和达人的原因，一是集体活动一次性成本过高，参与人员水平参差不齐，容易被贪小便宜的劣币驱逐良币。社群和达人支持计划，影响力广、精准投放。\n学长给她介绍原来的公司组织活动，效果是有的，但是活动后勤、参与人员都灰色地带，可能有抽水、付费雇人、用亲友供应商等操作。\n2. 安排个打酱油的角色吧，聚餐宴会上，大家借祝贺为由，轮流给许青禾敬酒。老油条小黄勇敢站出来，帮许青禾挡酒。第二天他就被开除了。\n3. 小黄想报复方井彦，为了躲过前台，从停车场上电梯。\n4. 停车场来了一辆迈巴赫 GLS 600，下来一个陆星朗、陆知远还有保镖。三人进电梯时，小黄也进来了。\n5. 小黄一直看着许青禾的照片，眼神变态，面容扭曲。\n6. 陆知远、陆星朗进了芯动力总经理办公室之后。小黄路过门口，被保镖拖到了厕所绑起来，并报了警。\n7. 警察把小黄带走之后，大家才知道，原来小黄是惯犯，基本来一个新的女同事，就会骚扰一个。小黄被带走时，大喊方井彦公报私仇。\n8. 许青禾和陆星朗的迈巴赫相遇，改为小黄被带走，许青禾惊魂未定，方井彦带她去楼下散心。回来路上碰到了迈巴赫。",
+      "images": [],
+      "contentDigest": "075f7a95a3e0e7ec131051d3dc4c4dba50575153d032fffd34be71afdf30ae33",
+      "providerUserMessageId": "01a05701-3f00-78c2-8fee-6e647c66fe5d",
+      "providerAssistantMessageId": "msg_01ec0b81983912bb016a9540829ae487d084805178438417e1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788166517366-rs12svr",
+      "userTurnOrdinal": 97,
+      "state": "accepted",
+      "localMessageId": "msg-1788166517310-0u5pxkg",
+      "timestamp": 1788166517310,
+      "rawDisplayText": "检查一下这一章是否符合创作规范",
+      "canonicalText": "检查一下这一章是否符合创作规范",
+      "images": [],
+      "contentDigest": "66f2c3d35825288c78ade8c484363924a36ac1d6f4b2023ed7ae66302be95680",
+      "providerUserMessageId": "01a05707-b320-7001-b7ba-22277e0bbce6",
+      "providerAssistantMessageId": "msg_05eb521faa76fdb3016a9541b5f4e887d0b9734c355ce147be"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788166745655-dj0qyty",
+      "userTurnOrdinal": 98,
+      "state": "accepted",
+      "localMessageId": "msg-1788166745600-0oziy0v",
+      "timestamp": 1788166745600,
+      "rawDisplayText": "你知道保镖是谁吗",
+      "canonicalText": "你知道保镖是谁吗",
+      "images": [],
+      "contentDigest": "8bff482fc9ab20edb3546c34aef839bdb6681dc6e92c23d8d10384ec60a265dc",
+      "providerUserMessageId": "01a0570b-2ea0-7d71-a1cf-28223a41e8af",
+      "providerAssistantMessageId": "msg_0b9f108843ed82d7016a95425efd5487d0bfc1bbf27fb57d16"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788166762157-umduev4",
+      "userTurnOrdinal": 99,
+      "state": "accepted",
+      "localMessageId": "msg-1788166762102-twok6n0",
+      "timestamp": 1788166762102,
+      "rawDisplayText": "那你觉得行文需要优化吗",
+      "canonicalText": "那你觉得行文需要优化吗",
+      "images": [],
+      "contentDigest": "b61dc68b1edad3e11c73b513d213ecdb90dbc8a8d242346b320ce8ccf627ade0",
+      "providerUserMessageId": "01a0570b-6f11-7ff0-bf3d-287c2682ec9e",
+      "providerAssistantMessageId": "msg_0723265f747bfa28016a9542a6ecd887d0b1802e91c085c3d3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788167078703-bagymwl",
+      "userTurnOrdinal": 100,
+      "state": "accepted",
+      "localMessageId": "msg-1788167078646-yvjddyt",
+      "timestamp": 1788167078646,
+      "rawDisplayText": "还有，加个细节，小黄被带走、许青禾散步，保镖在楼上落地窗都看在眼里。总经理送陆知远、陆星朗出来后，他又马上进入状态。突出职业素养。总经理跟陆知远、陆星朗握手，说公司交给星动，他相信可以更上一层楼",
+      "canonicalText": "还有，加个细节，小黄被带走、许青禾散步，保镖在楼上落地窗都看在眼里。总经理送陆知远、陆星朗出来后，他又马上进入状态。突出职业素养。总经理跟陆知远、陆星朗握手，说公司交给星动，他相信可以更上一层楼",
+      "images": [],
+      "contentDigest": "fc4b72029a3341c0bf0823e6b09903344aa4777b09804c72f40ee7c2eb63a8e1",
+      "providerUserMessageId": "01a05710-43c5-7cc0-b8c3-53d8b78f84d7",
+      "providerAssistantMessageId": "msg_06e93adbdbca4075016a9543e9fb7c87d08fcba2909728fac0"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788167459872-ppf5n69",
+      "userTurnOrdinal": 101,
+      "state": "accepted",
+      "localMessageId": "msg-1788167459786-oxt3orr",
+      "timestamp": 1788167459786,
+      "rawDisplayText": "事件确实过于密集。你看需要怎么优化一下",
+      "canonicalText": "事件确实过于密集。你看需要怎么优化一下",
+      "images": [],
+      "contentDigest": "84f6df53db111505fd52213c26f56adb6fd9168569554fab13d2fb663fd375df",
+      "providerUserMessageId": "01a05716-149e-7332-8b3a-a165975f3711",
+      "providerAssistantMessageId": "msg_0fd0abaa18e38cbf016a954540408487d0bf66903d94056884"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788167689647-aqqn60c",
+      "userTurnOrdinal": 102,
+      "state": "accepted",
+      "localMessageId": "msg-1788167689570-j5xjkoq",
+      "timestamp": 1788167689570,
+      "rawDisplayText": "行，改吧",
+      "canonicalText": "行，改吧",
+      "images": [],
+      "contentDigest": "0933a31829f549717c6cf37dda642c186c5e5b83aad181a3304adb89a7b9c88c",
+      "providerUserMessageId": "01a05719-961a-7bf1-99a0-25e4a7c7e287",
+      "providerAssistantMessageId": "msg_0232bc912f49a72a016a9546f0586887d09140887bae5639f7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788168223009-p70nfvw",
+      "userTurnOrdinal": 103,
+      "state": "accepted",
+      "localMessageId": "msg-1788168222954-xklgx7y",
+      "timestamp": 1788168222954,
+      "rawDisplayText": "小黄忘记拿手机，折回来。服务员问他怎么证明，他拿过来输了密码。手机壁纸是许青禾，服务员调侃，你女朋友真漂亮。",
+      "canonicalText": "小黄忘记拿手机，折回来。服务员问他怎么证明，他拿过来输了密码。手机壁纸是许青禾，服务员调侃，你女朋友真漂亮。",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "小黄落在最后。\n\n桌上的手机亮了一下。\n\n屏幕里，是许青禾坐在会议室窗边的照片。角度很远，像是隔着玻璃偷拍的。\n\n他很快把屏幕扣在桌上。",
+          "lineCount": 7,
+          "startLine": 123
+        }
+      },
+      "images": [],
+      "contentDigest": "a958e83b4774b6a580ae40fd94da95b6285b25297546b6371549a96143777e5f",
+      "providerUserMessageId": "01a05721-ba3a-7e32-8c5d-c03cc6a370cd",
+      "providerAssistantMessageId": "msg_0a63a654a672e3c3016a95483eba6c87d0b7eb2722b7341331"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788168351120-87txvqm",
+      "userTurnOrdinal": 104,
+      "state": "accepted",
+      "localMessageId": "msg-1788168351037-upa3g0c",
+      "timestamp": 1788168351037,
+      "rawDisplayText": "这章这么多事件落点，但是才1544个字",
+      "canonicalText": "这章这么多事件落点，但是才1544个字",
+      "images": [],
+      "contentDigest": "cf1c17a27b7d94712969dad5a29cc6319b19e7e63d3d536e99fc2b4b1f238aa7",
+      "providerUserMessageId": "01a05723-ae00-7ba0-abaa-0a452c889fb7",
+      "providerAssistantMessageId": "msg_07ea6cd68f1fae72016a9548b7460087d0a64d2659a0f6ad2e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788170019043-3b5m9yi",
+      "userTurnOrdinal": 105,
+      "state": "accepted",
+      "localMessageId": "msg-1788170018957-ztg1qk5",
+      "timestamp": 1788170018957,
+      "rawDisplayText": "这里改写一下，沈兰因大喊，老板娘，这顿我请客！\n老板娘骂她，“你已经欠下了3万块，以后在你彩礼里面加”\n全场哄笑。",
+      "canonicalText": "这里改写一下，沈兰因大喊，老板娘，这顿我请客！\n老板娘骂她，“你已经欠下了3万块，以后在你彩礼里面加”\n全场哄笑。",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "许青禾低头看着杯壁的水珠。\n\n“也许是回忆给我加了分，也许是他觉得我还值得用。但我这些年没有停过准备和练习。”她说，“不管是回忆加了分，还是真材实料，机会来了，我就该牢牢把握。勇敢开始。”\n\n“这才像你。”",
+          "lineCount": 5,
+          "startLine": 61
+        }
+      },
+      "images": [],
+      "contentDigest": "092adaa3cbc973cb971c068c9be1e2ccd7a73a5d3e965fe2e73c32403231938e",
+      "providerUserMessageId": "01a0573d-2200-7d41-909d-d37978db7e4b",
+      "providerAssistantMessageId": "msg_0e65daa6dcb076bd016a954f36045887d098aa6905af3af3bb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788170121156-90w1m47",
+      "userTurnOrdinal": 106,
+      "state": "accepted",
+      "localMessageId": "msg-1788170121100-b161jis",
+      "timestamp": 1788170121100,
+      "rawDisplayText": "你是看不懂人话吗？\n是老板娘骂沈兰因，这里是想说明，这家店是沈兰因家的",
+      "canonicalText": "你是看不懂人话吗？\n是老板娘骂沈兰因，这里是想说明，这家店是沈兰因家的",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "许青禾低头看着杯壁的水珠。\n\n“也许是回忆给我加了分，也许是他觉得我还值得用。但我这些年没有停过准备和练习。”她说，“不管是回忆加了分，还是真材实料，机会来了，我就该牢牢把握。勇敢开始。”\n\n“这才像你。”",
+          "lineCount": 5,
+          "startLine": 61
+        }
+      },
+      "images": [],
+      "contentDigest": "636d5d03d312d9223498fb9ff868ffdc61afb60e38dd8baeb1a61d6ad6bd3717",
+      "providerUserMessageId": "01a0573e-b088-7680-a950-f6d4def91b02",
+      "providerAssistantMessageId": "msg_044a978fb0b45998016a954fa102b887d086ac829a540b1110"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788170239598-gjocc7e",
+      "userTurnOrdinal": 107,
+      "state": "accepted",
+      "localMessageId": "msg-1788170239542-hpgv8jb",
+      "timestamp": 1788170239542,
+      "rawDisplayText": "这一段挪到离开店后，许青禾听海时，心里立下的决心",
+      "canonicalText": "这一段挪到离开店后，许青禾听海时，心里立下的决心",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "“也许是回忆给我加了分，也许是他觉得我还值得用。但我这些年没有停过准备和练习。”她说，“不管是回忆加了分，还是真材实料，机会来了，我就该牢牢把握。勇敢开始。”",
+          "lineCount": 1,
+          "startLine": 63
+        }
+      },
+      "images": [],
+      "contentDigest": "f8883d797dea585df1957456dfe233c82ab094962d86f4baaece992a59356315",
+      "providerUserMessageId": "01a05740-7f05-77a3-9ec6-bc27a59e07ce",
+      "providerAssistantMessageId": "msg_0d5c7d9d7b9cdfb4016a95501e2f5487d0bee9b80143818897"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788180626895-7gg9w05",
+      "userTurnOrdinal": 108,
+      "state": "accepted",
+      "localMessageId": "msg-1788180626806-6ox7rvy",
+      "timestamp": 1788180626806,
+      "rawDisplayText": "根据写作总控，检查一下本文",
+      "canonicalText": "根据写作总控，检查一下本文",
+      "images": [],
+      "contentDigest": "ffd5d5911cb5bbc7b37c0b9b9026a7ef540f1a89ff599cc3269f9ab712d1e60f",
+      "providerUserMessageId": "01a057de-fec0-77e0-9ad8-d9904080af42",
+      "providerAssistantMessageId": "msg_003b0ad034397171016a9578db6f1487d09fbe680fae65d750"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788181851967-l821e1f",
+      "userTurnOrdinal": 109,
+      "state": "accepted",
+      "localMessageId": "msg-1788181851878-z5myurm",
+      "timestamp": 1788181851878,
+      "rawDisplayText": "这里的第一个问题是，HR问她，为什么从客服组长转到市场部总监助理？\n第二个问题，是市场部总监问她，你觉得芯动力的产品，未来的增长点在哪？",
+      "canonicalText": "这里的第一个问题是，HR问她，为什么从客服组长转到市场部总监助理？\n第二个问题，是市场部总监问她，你觉得芯动力的产品，未来的增长点在哪？",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "“客服组长，为什么来应聘市场部？”\n\n许青禾看向桌上熄屏的运动腕带。\n\n“客户不会说自己想要什么。他们只会问，为什么和广告里不一样，为什么不会用，为什么买完就不想打开。”她说，“这些话，最后都会落进客服耳机里。”\n\n人力负责人翻页的动作慢下来。\n\n“市场情绪和需求，藏在客户没说完的话里，藏在他们反复确认的问题里。有人愿意花钱，不代表他愿意留下来。”\n\n市场总监问：“如果让你做一场面向年轻人的新品活动呢？”\n\n“先不做活动。”\n\n“年轻人不缺一场公司组织的热闹。他们已经在跑步、骑行、飞盘、攀岩。品牌该去他们本来就在的地方，先听他们为什么愿意一周又一周地回来。”",
+          "lineCount": 15,
+          "startLine": 11
+        }
+      },
+      "images": [],
+      "contentDigest": "1c4277cde1faeb31724dd6f44f4d21e822018bdf232d45c32c336ebf76d83bd3",
+      "providerUserMessageId": "01a057f1-b02b-7f92-9082-ed7a237f0c53",
+      "providerAssistantMessageId": "msg_0f4ab7f4903e89d7016a957d804e5c87d0b5105c59b514ba2f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788183759185-fy762sq",
+      "userTurnOrdinal": 110,
+      "state": "accepted",
+      "localMessageId": "msg-1788183759121-tbpv2a8",
+      "timestamp": 1788183759121,
+      "rawDisplayText": "检查一下文章逻辑有没有问题",
+      "canonicalText": "检查一下文章逻辑有没有问题",
+      "images": [],
+      "contentDigest": "2186ee6cac6038d8575402107158ee7e9fd104844b661dea86b31e3ba0db2d85",
+      "providerUserMessageId": "01a0580e-ca5e-7152-b17e-b4d27a3fbe08",
+      "providerAssistantMessageId": "msg_0ea22ae635c037fd016a95851e110887d0bbe65be6f98ec2d2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788184548059-k8tn02o",
+      "userTurnOrdinal": 111,
+      "state": "accepted",
+      "localMessageId": "msg-1788184547970-4kdqq6v",
+      "timestamp": 1788184547970,
+      "rawDisplayText": "你怎么看",
+      "canonicalText": "你怎么看",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "沈兰因笑着举杯：“行。祝许助理前程似锦。”\n\n沈兰因忽然举起杯子，朝收银台大喊：“老板娘，这顿我请客！”",
+          "lineCount": 3,
+          "startLine": 65
+        }
+      },
+      "images": [],
+      "contentDigest": "f8c876509bcbb73d8f29163d919563459e9e7a3df07f21fb2a566931ecd6fe88",
+      "providerUserMessageId": "01a0581a-d3dc-7790-9bb6-0a7f2d9cb692",
+      "providerAssistantMessageId": "msg_048e36a1f6e96c43016a9587f1751887d092883e9267748c7c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788184577413-w0uhs9m",
+      "userTurnOrdinal": 112,
+      "state": "accepted",
+      "localMessageId": "msg-1788184577356-eoubhnk",
+      "timestamp": 1788184577356,
+      "rawDisplayText": "改过来",
+      "canonicalText": "改过来",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "沈兰因笑着举杯：“行。祝许助理前程似锦。”\n\n沈兰因忽然举起杯子，朝收银台大喊：“老板娘，这顿我请客！”",
+          "lineCount": 3,
+          "startLine": 65
+        }
+      },
+      "images": [],
+      "contentDigest": "5ccbc5dd83ee6420ab1b9f64f8570554abad69cb451b476d1749d64f5130f036",
+      "providerUserMessageId": "01a0581b-463f-7171-8af5-c0cbe5040d8b",
+      "providerAssistantMessageId": "msg_08bfbc0fe1f61840016a95880ffb8887d0a1b8a793f92b28df"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788184607530-p08o0lk",
+      "userTurnOrdinal": 113,
+      "state": "accepted",
+      "localMessageId": "msg-1788184607438-ilhus0j",
+      "timestamp": 1788184607438,
+      "rawDisplayText": "那我之前问你，检查一下文章逻辑有没有问题，你为什么没查出来",
+      "canonicalText": "那我之前问你，检查一下文章逻辑有没有问题，你为什么没查出来",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "沈兰因笑着举杯：“行。祝许助理前程似锦。”\n\n沈兰因忽然举起杯子，朝收银台大喊：“老板娘，这顿我请客！”",
+          "lineCount": 3,
+          "startLine": 65
+        }
+      },
+      "images": [],
+      "contentDigest": "0f1bf5f5a460ffa637f83e3f74d59d0db556878ac1af501550e94adcc15c0003",
+      "providerUserMessageId": "01a0581b-bbae-7802-a413-de52a1a7d469",
+      "providerAssistantMessageId": "msg_037b0b81a49849b4016a95882bb23487d085f76429a9ef7027"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788184655520-c71nont",
+      "userTurnOrdinal": 114,
+      "state": "accepted",
+      "localMessageId": "msg-1788184655457-uwqeiu7",
+      "timestamp": 1788184655457,
+      "rawDisplayText": "这个要求在写作总控中有吗",
+      "canonicalText": "这个要求在写作总控中有吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "沈兰因笑着举杯：“行。祝许助理前程似锦。”\n\n沈兰因忽然举起杯子，朝收银台大喊：“老板娘，这顿我请客！”",
+          "lineCount": 3,
+          "startLine": 65
+        }
+      },
+      "images": [],
+      "contentDigest": "0b874be544465fe9417b59d1d39f8f3693872c5182f84aaa8c219deb36e8139f",
+      "providerUserMessageId": "01a0581c-7715-7622-9a38-d94a7feab835",
+      "providerAssistantMessageId": "msg_03a8e332869fb88a016a95885e119487d0bbc8f5efbbfb0d5e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788184695564-7k8eef5",
+      "userTurnOrdinal": 115,
+      "state": "accepted",
+      "localMessageId": "msg-1788184695470-3q5cdur",
+      "timestamp": 1788184695470,
+      "rawDisplayText": "那你把这个要求加上去",
+      "canonicalText": "那你把这个要求加上去",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "沈兰因笑着举杯：“行。祝许助理前程似锦。”\n\n沈兰因忽然举起杯子，朝收银台大喊：“老板娘，这顿我请客！”",
+          "lineCount": 3,
+          "startLine": 65
+        }
+      },
+      "images": [],
+      "contentDigest": "318a714e56688092ec65d079ca19304e80ccd9f1d8e4e4a48cd99dacab6b6d88",
+      "providerUserMessageId": "01a0581d-1399-7fa0-9aeb-ddfd62534e1d",
+      "providerAssistantMessageId": "msg_0e383220fa4a060e016a9588aa2a7487d098b4b98052dde90e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788185024195-oyg6v1u",
+      "userTurnOrdinal": 116,
+      "state": "accepted",
+      "localMessageId": "msg-1788185024095-3hi14mw",
+      "timestamp": 1788185024095,
+      "rawDisplayText": "按照写作总控，重新检查",
+      "canonicalText": "按照写作总控，重新检查",
+      "images": [],
+      "contentDigest": "dade1fec82a81aa3daaa2c36b2547bfd0e2fc665c5922da5f1c8ffdbcd31d56c",
+      "providerUserMessageId": "01a05822-1737-7701-8312-e47ce5a196d1",
+      "providerAssistantMessageId": "msg_08f978fc7fdc8608016a958a4ad62487d0a03efa33af7b06b8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788185492991-vgsjng9",
+      "userTurnOrdinal": 117,
+      "state": "accepted",
+      "localMessageId": "msg-1788185492928-7zewlbd",
+      "timestamp": 1788185492928,
+      "rawDisplayText": "你确定？",
+      "canonicalText": "你确定？",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "也许是回忆给她加了分，也许是方井彦仍觉得她值得用。但这些年，她没有停过准备和练习。\n\n不管是回忆加了分，还是真材实料，机会既然来了，她就该牢牢把握。",
+          "lineCount": 3,
+          "startLine": 79
+        }
+      },
+      "images": [],
+      "contentDigest": "9f5124e93b9d4adaef082081f15ed4bb7141f3631d881df7f4e8b93dc4ae8e49",
+      "providerUserMessageId": "01a05829-3e6a-7cf3-a01c-e58add2fb137",
+      "providerAssistantMessageId": "msg_06f95ce04dd26c9f016a958bb41bbc87d0a146e4b035346d01"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788185600989-o3pyr8x",
+      "userTurnOrdinal": 118,
+      "state": "accepted",
+      "localMessageId": "msg-1788185600897-ycq0cql",
+      "timestamp": 1788185600897,
+      "rawDisplayText": "所以就算更新了写作总控，你还是失误了，为什么呢",
+      "canonicalText": "所以就算更新了写作总控，你还是失误了，为什么呢",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "也许是回忆给她加了分，也许是方井彦仍觉得她值得用。但这些年，她没有停过准备和练习。\n\n不管是回忆加了分，还是真材实料，机会既然来了，她就该牢牢把握。",
+          "lineCount": 3,
+          "startLine": 79
+        }
+      },
+      "images": [],
+      "contentDigest": "dacec527f6a13c2e1afa4fdc80b7f647e8b57862d151d7e29baf4e678210e201",
+      "providerUserMessageId": "01a0582a-e458-7531-9f42-463fd11a201b",
+      "providerAssistantMessageId": "msg_040f53af05b46a61016a958c0f744887d0a18a1e7dbd78b148"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788185676360-65a07wy",
+      "userTurnOrdinal": 119,
+      "state": "accepted",
+      "localMessageId": "msg-1788185676300-dn9l6zq",
+      "timestamp": 1788185676300,
+      "rawDisplayText": "那你新增的要求，有记录吗",
+      "canonicalText": "那你新增的要求，有记录吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "也许是回忆给她加了分，也许是方井彦仍觉得她值得用。但这些年，她没有停过准备和练习。\n\n不管是回忆加了分，还是真材实料，机会既然来了，她就该牢牢把握。",
+          "lineCount": 3,
+          "startLine": 79
+        }
+      },
+      "images": [],
+      "contentDigest": "aedb5550004fc8f08cbe964f01fec17bdcebfe12e2c9fae61906d5662b337937",
+      "providerUserMessageId": "01a0582c-0ab1-76b3-9b29-76daa0d93f4a",
+      "providerAssistantMessageId": "msg_03233943e1bee00c016a958c64b74c87d0a3185a592d60cbf4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788185891125-yiou6sm",
+      "userTurnOrdinal": 120,
+      "state": "accepted",
+      "localMessageId": "msg-1788185891063-ua85cde",
+      "timestamp": 1788185891063,
+      "rawDisplayText": "那现在重来",
+      "canonicalText": "那现在重来",
+      "images": [],
+      "contentDigest": "e265acd76d3412b7272dd2a54f666d1d8e0b7ecb49bc8e55c325976cc41fed55",
+      "providerUserMessageId": "01a0582f-51c8-70a3-bb76-76da189dce45",
+      "providerAssistantMessageId": "msg_0cd13c1a1019fd06016a958d9d3a5087d280431de63aafb52a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788186105460-g1tvtz2",
+      "userTurnOrdinal": 121,
+      "state": "accepted",
+      "localMessageId": "msg-1788186105394-u7kgp61",
+      "timestamp": 1788186105394,
+      "rawDisplayText": "第三章没什么爆点、狗血的点",
+      "canonicalText": "第三章没什么爆点、狗血的点",
+      "images": [],
+      "contentDigest": "49487da6f9056697adc7dde3ad8d32f38a0170dff24e964ef11381cbd588ca23",
+      "providerUserMessageId": "01a05832-971c-78e2-818d-972f005712e4",
+      "providerAssistantMessageId": "msg_0827dd4a2f42b556016a958e4eb7d087d1abbdfdf5f6d9d024"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788186702786-eie4lcq",
+      "userTurnOrdinal": 122,
+      "state": "accepted",
+      "localMessageId": "msg-1788186702688-awx8w3k",
+      "timestamp": 1788186702688,
+      "rawDisplayText": "我建议你这个质疑许青禾是前女友的点，放在她刚入职的时候。\n然后她提议使用赞助兴趣团体、社群的方式，替代原来大型活动的方式，被采纳之后，更是有人质疑她跟方井彦的不正当关系，所以方井彦才会对她千依百顺。\n在公司闲聊群里爆出一张方井彦和许青禾的旧照之后，大家的质疑更是坐实了。\n许青禾躲在天台偷偷掉眼泪。\n这时传来学长的声音，同志，还敢继续刮骨疗伤吗？\n敢！我要用成绩说话。三个月后，果然大获成功。芯动力手环不仅是运动必备，还是日常穿搭潮流单品。",
+      "canonicalText": "我建议你这个质疑许青禾是前女友的点，放在她刚入职的时候。\n然后她提议使用赞助兴趣团体、社群的方式，替代原来大型活动的方式，被采纳之后，更是有人质疑她跟方井彦的不正当关系，所以方井彦才会对她千依百顺。\n在公司闲聊群里爆出一张方井彦和许青禾的旧照之后，大家的质疑更是坐实了。\n许青禾躲在天台偷偷掉眼泪。\n这时传来学长的声音，同志，还敢继续刮骨疗伤吗？\n敢！我要用成绩说话。三个月后，果然大获成功。芯动力手环不仅是运动必备，还是日常穿搭潮流单品。",
+      "images": [],
+      "contentDigest": "727ad5a760823f35a6f3265c0b7ff708dcadd9b77f76e7ffc75a05a445c988dd",
+      "providerUserMessageId": "01a0583b-b4b5-7e71-a3b1-16c66555e667",
+      "providerAssistantMessageId": "msg_0352df00fdd8d6df016a9590a3ea3887d28d1939a30a36730b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788186920777-wxit5p0",
+      "userTurnOrdinal": 123,
+      "state": "accepted",
+      "localMessageId": "msg-1788186920678-3pty5qp",
+      "timestamp": 1788186920678,
+      "rawDisplayText": "现在重新检查一下，看看剧情是否连贯自然",
+      "canonicalText": "现在重新检查一下，看看剧情是否连贯自然",
+      "images": [],
+      "contentDigest": "c4ea6e8920a042ad71e8ece21149ddcde6c7e78556b06ba58f72fe21ba1980ce",
+      "providerUserMessageId": "01a0583f-07f8-75b3-8685-e8f93c5907c8",
+      "providerAssistantMessageId": "msg_07f8deab2d8ec631016a9591958c7c87d1b5e135959839745e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788188849014-89p2hgr",
+      "userTurnOrdinal": 124,
+      "state": "accepted",
+      "localMessageId": "msg-1788188848917-d45fbqd",
+      "timestamp": 1788188848917,
+      "rawDisplayText": "改成多位老员工提出反对意见。然后方井彦心里自然清楚，许青禾这是在断掉他们的财路。很多人以此来抽水、吃回扣。",
+      "canonicalText": "改成多位老员工提出反对意见。然后方井彦心里自然清楚，许青禾这是在断掉他们的财路。很多人以此来抽水、吃回扣。",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "方井彦翻着旧方案：“我以前也办过。活动有效果，可后勤、人员都有灰色地带：抽水、雇人充场、亲友供应商，账面再漂亮也不干净。”",
+          "lineCount": 1,
+          "startLine": 95
+        }
+      },
+      "images": [],
+      "contentDigest": "35d5d5fe9752d2ccf71a52407ed824ce1123f5b70ce491502193b38383af0d7b",
+      "providerUserMessageId": "01a0585c-7477-72d2-9d50-cb2ab167f728",
+      "providerAssistantMessageId": "msg_0ac293c41af2fffa016a9598efdb4487d2ac3bf6ebf85f6271"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788189224710-2t192qi",
+      "userTurnOrdinal": 125,
+      "state": "accepted",
+      "localMessageId": "msg-1788189224612-qsdmsp6",
+      "timestamp": 1788189224612,
+      "rawDisplayText": "在市场部里这样发，也太明目张胆了，还敢中伤自己的领导？",
+      "canonicalText": "在市场部里这样发，也太明目张胆了，还敢中伤自己的领导？",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "方案通过的当晚，市场部闲聊群里又冒出一张学生会旧照。照片里，方井彦站在她身侧，两人都穿着白衬衫。配文只有一句：这算不算坐实？",
+          "lineCount": 1,
+          "startLine": 111
+        }
+      },
+      "images": [],
+      "contentDigest": "cbe6f61e310642890daf916465b10bbc8fdc2dfd9bb6677f70ff93b1f98e57b7",
+      "providerUserMessageId": "01a05862-2fb2-7192-8e78-4a98b12d8d5e",
+      "providerAssistantMessageId": "msg_0b9aff12adc3c0e1016a959a42b6d487d19169cdf32664f477"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788189504451-bl8crmq",
+      "userTurnOrdinal": 126,
+      "state": "accepted",
+      "localMessageId": "msg-1788189504367-wmqauon",
+      "timestamp": 1788189504367,
+      "rawDisplayText": "本文出现的主要角色，基本没有外貌描写，是否不妥",
+      "canonicalText": "本文出现的主要角色，基本没有外貌描写，是否不妥",
+      "images": [],
+      "contentDigest": "f94d61b734e0edc559f475086a03c71268a3a48c097a099f84fb76e882b0d039",
+      "providerUserMessageId": "01a05866-745c-7d53-921b-2d32a5919486",
+      "providerAssistantMessageId": "msg_0931c4eb9d0788dd016a959b54c50c87d18ec2d80cd5a21fa5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788189855765-fev16hy",
+      "userTurnOrdinal": 127,
+      "state": "accepted",
+      "localMessageId": "msg-1788189855684-pc7s434",
+      "timestamp": 1788189855684,
+      "rawDisplayText": "那补充一下方井彦的描写，需要体面、温和、克制、精英感",
+      "canonicalText": "那补充一下方井彦的描写，需要体面、温和、克制、精英感",
+      "images": [],
+      "contentDigest": "c8e74f0aed4b2c961d451fb1676e60db1718b7ef6b85346372c569f3ec68f377",
+      "providerUserMessageId": "01a0586b-d0a1-7dd2-b697-8c897ccfe194",
+      "providerAssistantMessageId": "msg_0822adb1f144651b016a959d02918c87d287bd605fd161bbbc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788190093198-70ee961",
+      "userTurnOrdinal": 128,
+      "state": "accepted",
+      "localMessageId": "msg-1788190093098-kg0xdem",
+      "timestamp": 1788190093098,
+      "rawDisplayText": "他是坐着的，要写坐姿，不要写整体身形、衬衣收进长裤",
+      "canonicalText": "他是坐着的，要写坐姿，不要写整体身形、衬衣收进长裤",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "市场部总监坐在中间。他身形修长挺拔，深灰色衬衣收进平整的长裤，袖口扣到腕骨，细框眼镜压住眉眼。看人温和，开口前总停半秒，像每句话都量过分寸。",
+          "lineCount": 1,
+          "startLine": 11
+        }
+      },
+      "images": [],
+      "contentDigest": "3f3c4f0cd5f09abcdfd6eafb90878c0fffdf5326268a1609ea2988f0914c0c9b",
+      "providerUserMessageId": "01a0586f-703c-7bc0-a8a6-7c823d35a751",
+      "providerAssistantMessageId": "msg_022e1e16763c1c9a016a959dab9a0087d1b919fe5a39eafbf5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788190298271-d5pilpp",
+      "userTurnOrdinal": 129,
+      "state": "accepted",
+      "localMessageId": "msg-1788190298169-86ftyww",
+      "timestamp": 1788190298169,
+      "rawDisplayText": "写这么多，能体现的气质很少，性价比略低。不如写一下发型、嘴唇、坐姿，都是小句描述，点到即止",
+      "canonicalText": "写这么多，能体现的气质很少，性价比略低。不如写一下发型、嘴唇、坐姿，都是小句描述，点到即止",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "背脊微直，肩线放松，一只手搭在桌边，另一只手压着她的简历",
+          "lineCount": 1,
+          "startLine": 11
+        }
+      },
+      "images": [],
+      "contentDigest": "787698079c4aba387b4f3f46c1085b922ba78ecb1b231a5acc8eb6b5c2001233",
+      "providerUserMessageId": "01a05872-9126-77e3-b2f9-5bbc1733fc0b",
+      "providerAssistantMessageId": "msg_02a5a0b57f277ef4016a959e7244bc87d2896e2f995f4cc9db"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788190514774-sbl5p8k",
+      "userTurnOrdinal": 130,
+      "state": "accepted",
+      "localMessageId": "msg-1788190514701-pq2f13f",
+      "timestamp": 1788190514701,
+      "rawDisplayText": "都是动作神态，需要穿插点衣着、发型描写",
+      "canonicalText": "都是动作神态，需要穿插点衣着、发型描写",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "市场部在正中，坐如松柏，手指轻压着她的简历。他看向许青禾时目光温和，嘴角带着礼貌的弧度。",
+          "lineCount": 1,
+          "startLine": 11
+        }
+      },
+      "images": [],
+      "contentDigest": "20060d2b1ac89dcaa99f9ba3665a0d0a0767209e931bdd397feef6cf56decaab",
+      "providerUserMessageId": "01a05875-defd-73b3-ac8c-dd250803bb53",
+      "providerAssistantMessageId": "msg_01c72fc000e5cd71016a959f556dd087d29fc97843c7324dc5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788191843914-srm6rzh",
+      "userTurnOrdinal": 131,
+      "state": "accepted",
+      "localMessageId": "msg-1788191843815-cz1uzv4",
+      "timestamp": 1788191843815,
+      "rawDisplayText": "1. 第4章开头营造点悬疑、惊悚的描写吧。\n许青禾回家路上总感觉有人跟着她。\n2. 跟闺蜜吐槽下夜班很危险时，闺蜜调侃可以叫学长送啊，学长我怕黑。\n3. 许青禾叫闺蜜滚蛋时，接到了方井彦的消息，“我有个朋友要出国了，房子闲置中，有没有兴趣帮忙还一下月供？”\n4. 许青禾把聊天消息亮给沈兰因，沈兰因起哄在一起在一起。\n5. 然后第二天到公司，小黄就被解雇了。",
+      "canonicalText": "1. 第4章开头营造点悬疑、惊悚的描写吧。\n许青禾回家路上总感觉有人跟着她。\n2. 跟闺蜜吐槽下夜班很危险时，闺蜜调侃可以叫学长送啊，学长我怕黑。\n3. 许青禾叫闺蜜滚蛋时，接到了方井彦的消息，“我有个朋友要出国了，房子闲置中，有没有兴趣帮忙还一下月供？”\n4. 许青禾把聊天消息亮给沈兰因，沈兰因起哄在一起在一起。\n5. 然后第二天到公司，小黄就被解雇了。",
+      "images": [],
+      "contentDigest": "2d68373aeb1c73438331c636cf73dfc789bfed7e6d0a178e997633174a196bc9",
+      "providerUserMessageId": "01a0588a-278c-7310-b121-7829f01dd83b",
+      "providerAssistantMessageId": "msg_00a8f49c57ad953a016a95a50c3c5c87d182287a1326a6716f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788227637759-2n3ft7l",
+      "userTurnOrdinal": 132,
+      "state": "accepted",
+      "localMessageId": "msg-1788227637654-544pvn7",
+      "timestamp": 1788227637654,
+      "rawDisplayText": "1. 不需要说庆功宴。就说最近许青禾最近回家，总感觉有人尾随她；\n2. 今晚下班，许青禾感觉又有人跟踪她，吓到她赶紧打电话给沈兰因。沈兰因建议她叫学长送，说学长我怕黑。\n3. 许青禾叫她滚蛋。\n4. 沈兰因说还真有点事，你注意安全，挂了\n5. 这时自己身旁出现一个影子，自己走得越快，影子跟得越紧。影子越来越近，把自己的影子扑倒、吞噬掉了；\n6. 准备撒腿就跑时，已经来不及啦，自己被拦腰抱起\n6. 刚想喊救命啊，后背抵着柔软，熟悉的香水味扑鼻而来。\n7. 沈兰因，你知道人吓人会吓死人吗！\n8. “这不是担心你嘛，以后姐罩着你”\n9. 许青禾眼眶一湿，我的傻大姐，你以后送我，谁来送你呢？\n10. 以后我送你回家，你不请我上去喝咖啡吗？以身相许总得要吧。\n11. 滚蛋，我是说你来的路上碰到坏人怎么办？\n12. 没事哒，我是运动员嘛，没几个人跑得过我\n13. 女拳运动员么？\n14. 虽说闺蜜计划每晚送自己，但不能让闺蜜以身犯险。\n15. 回到家，许青禾提议还是搬到安全的小区住好了。\n16. 刚说完，方井彦发来消息：【我有个朋友要出国，房子闲置中。有没有兴趣，帮忙还一下月供？】",
+      "canonicalText": "1. 不需要说庆功宴。就说最近许青禾最近回家，总感觉有人尾随她；\n2. 今晚下班，许青禾感觉又有人跟踪她，吓到她赶紧打电话给沈兰因。沈兰因建议她叫学长送，说学长我怕黑。\n3. 许青禾叫她滚蛋。\n4. 沈兰因说还真有点事，你注意安全，挂了\n5. 这时自己身旁出现一个影子，自己走得越快，影子跟得越紧。影子越来越近，把自己的影子扑倒、吞噬掉了；\n6. 准备撒腿就跑时，已经来不及啦，自己被拦腰抱起\n6. 刚想喊救命啊，后背抵着柔软，熟悉的香水味扑鼻而来。\n7. 沈兰因，你知道人吓人会吓死人吗！\n8. “这不是担心你嘛，以后姐罩着你”\n9. 许青禾眼眶一湿，我的傻大姐，你以后送我，谁来送你呢？\n10. 以后我送你回家，你不请我上去喝咖啡吗？以身相许总得要吧。\n11. 滚蛋，我是说你来的路上碰到坏人怎么办？\n12. 没事哒，我是运动员嘛，没几个人跑得过我\n13. 女拳运动员么？\n14. 虽说闺蜜计划每晚送自己，但不能让闺蜜以身犯险。\n15. 回到家，许青禾提议还是搬到安全的小区住好了。\n16. 刚说完，方井彦发来消息：【我有个朋友要出国，房子闲置中。有没有兴趣，帮忙还一下月供？】",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "方井彦发来消息：【我有个朋友要出国，房子闲置中。有没有兴趣，帮忙还一下月供？】",
+          "lineCount": 1,
+          "startLine": 17
+        }
+      },
+      "images": [],
+      "contentDigest": "1fcc6f5bf4b3b07baf6777df2840188621156dd7db73eb0b8fdd06a2154b162d",
+      "providerUserMessageId": "01a05aac-5309-78e0-9c96-bea720ede06b",
+      "providerAssistantMessageId": "msg_067e7a98c41f402e016a96309b8e2087d0a576553e399078c9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788227896368-j37ug9m",
+      "userTurnOrdinal": 133,
+      "state": "accepted",
+      "localMessageId": "msg-1788227896282-5dpe2t6",
+      "timestamp": 1788227896282,
+      "rawDisplayText": "按写作总控重新写一下这一章",
+      "canonicalText": "按写作总控重新写一下这一章",
+      "images": [],
+      "contentDigest": "a25e850c77f50bd181db02a1df8a462ff03fde359567a6ba9fb03ea1dd71ba51",
+      "providerUserMessageId": "01a05ab0-44ed-76a2-afba-05ccb828d019",
+      "providerAssistantMessageId": "msg_02df863019da863f016a96319d935c87d0b323b643a187ca75"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788229740620-anjz4yb",
+      "userTurnOrdinal": 134,
+      "state": "accepted",
+      "localMessageId": "msg-1788229740538-cvgxffu",
+      "timestamp": 1788229740538,
+      "rawDisplayText": "心理活动，哼，好一个假公济私的方井彦，莫非你也看上她了么",
+      "canonicalText": "心理活动，哼，好一个假公济私的方井彦，莫非你也看上她了么",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "他认定，是方井彦借题发挥，把他赶了出去。",
+          "lineCount": 1,
+          "startLine": 71
+        }
+      },
+      "images": [],
+      "contentDigest": "f8128229d115cd156606036809f42525742b5a10bd52278b723e959d349d3908",
+      "providerUserMessageId": "01a05acc-6952-7013-ae2e-5c2b0bfc28a8",
+      "providerAssistantMessageId": "msg_0012d5c411903c92016a9638e9df6c87d08c8ca116ce214ad6"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788229926027-fzp8m0e",
+      "userTurnOrdinal": 135,
+      "state": "accepted",
+      "localMessageId": "msg-1788229925931-upz9u2y",
+      "timestamp": 1788229925931,
+      "rawDisplayText": "刚离职就报复吗",
+      "canonicalText": "刚离职就报复吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "最近几天，许青禾回家时，总觉得有人跟在身后。\n\n今晚下班，写字楼的灯一排排熄灭。雨后的路面把灯光拉成细碎的白，她刚走出大门，身后的脚步声又响了起来。\n\n不远不近，踩着她的节奏。\n\n许青禾握紧手机，拨给沈兰因。\n\n“兰因，我好像又被人跟踪了。”\n\n“女孩子夜里回家，本来就危险。”沈兰因说，“可以叫学长送啊。你就跟他说，学长，我怕黑。”\n\n“沈兰因，滚蛋。”\n\n电话那头停了一秒。\n\n“还真有点事。你注意安全，我先挂了。”\n\n电话断掉，屏幕暗下去。\n\n许青禾加快脚步。\n\n路灯将她的影子拖到脚边。她走得越快，身旁那道影子跟得越紧。它从身后贴上来，猛地扑倒她的影子，将那一点黑暗整个吞没。\n\n许青禾刚要撒腿，腰间忽然一紧。\n\n她被拦腰抱起。\n\n“救命——”\n\n后背抵着柔软，熟悉的香水味扑鼻而来。\n\n“沈兰因！”许青禾挣扎着落地，“你知道人吓人会吓死人吗？”\n\n“这不是担心你嘛。”沈兰因松开她，顺手替她理了理被风吹乱的头发，“以后姐罩着你。”\n\n许青禾眼眶一湿：“我的傻大姐。以后你送我，谁来送你呢？”\n\n“以后我送你回家。”沈兰因挽住她的胳膊，“你不请我上去喝杯咖啡？以身相许总得要吧。”\n\n“滚蛋。我是说你来的路上碰到坏人怎么办？”\n\n“没事哒，我是运动员嘛，没几个人跑得过我。”\n\n许青禾看她一眼：“女拳运动员么？”\n\n沈兰因扬了扬拳头：“你试试？”\n\n她们一路笑着走回去。沈兰因当即宣布，从今天起每天送她回家，许青禾却没有答应。\n\n闺蜜可以替她挡一次惊吓，不能陪她把自己置于危险里。\n\n进门后，许青禾换了鞋，说：“还是搬到安全一点的小区吧。”\n\n手机正好亮起。\n\n方井彦发来消息：【我有个朋友要出国，房子闲置中。有没有兴趣，帮忙还一下月供？】\n\n后面跟着一处公寓定位，离公司只有两站地铁。\n\n许青禾把聊天界面亮给沈兰因。\n\n沈兰因看了一眼，压低声音起哄：“在一起，在一起！”\n\n第二天一早，许青禾到公司时，小黄正抱着纸箱从走廊尽头出来。\n\n几名女同事补交了投诉，人力部又在他的工作电脑里发现偷拍记录，给出的理由是严重违纪。\n\n昨晚还替她挡酒的男人，衬衫皱得不像样，脸色阴沉。他经过市场部玻璃门，朝里面停了一下。\n\n他认定，是方井彦借题发挥，把他赶了出去。\n\n哼，好一个假公济私的方井彦。莫非你也看上她了么？\n\n前台需要登记，小黄的门禁已经失效。他绕开人群，拐进停车场，从员工电梯上楼。\n\n一辆黑色迈巴赫 GLS 600驶进地库。\n\n陆知远先下车，深色大衣压住肩背，眉间带着久居上位的冷肃。陆星朗跟在他身后，浅灰色大衣衬得人清朗。\n\n最后下来的是一名随行安保。\n\n黑色西装收住宽阔的肩背，短发利落，眉骨与下颌线条冷硬。他不看车门，只扫过出口、立柱和监控死角。\n\n三人走进电梯，小黄也挤了进去。\n\n门缓慢合拢。金属壁映出他扭曲的脸。\n\n他低头翻着手机，屏幕上是许青禾的照片。那双眼睛黏在屏幕上，像要从照片里剥下一层什么。\n\n保镖看清那张照片，目光只停了半秒。\n\n电梯门开，陆知远和陆星朗进了总经理办公室。保镖落在后面，等小黄从前台外侧绕过去。\n\n小黄刚经过门口，身后便压下一只手。\n\n他来不及出声，就被拖进洗手间。门锁落下，里面传出一声短促的撞击。保镖将他的手反扣，用束带固定，随后拨出报警电话。\n\n十分钟后，警察赶到。\n\n小黄被带出来时，双手束在身后，仍隔着人群朝许青禾挣扎：“青禾，你一定要等我！”\n\n走廊里的声音停了。\n\n警方从他手机里翻出一沓照片和聊天记录。许青禾看见其中一张，是自己昨晚走向地铁站的背影；镜头里，身后隔着几步，跟着一道被路灯拉长的影子。\n\n直到这时，大家才知道，小黄早就是惯犯。每来一个新女同事，他都会盯上一个。\n\n许青禾站在原地，手脚发凉。\n\n方井彦从会议室出来，站到她身边：“下楼走走。”\n\n夜里刚落过雨。花坛积着水，车灯在里面碎成一片片的白。他走在许青禾靠车道的一侧，替她挡住溅起的水花。\n\n楼上，保镖站在落地窗前，看见她低着头走在方井彦身侧。目光只停了一瞬，便移开了。\n\n总经理将陆知远和陆星朗送到门口，同两人握手，笑得郑重：“芯动力交给星动，我相信可以更上一层楼。”\n\n保镖从窗前退开，重新站回陆星朗身后半步。视线扫过走廊、电梯和出口，像刚才什么都没有看见。\n\n三人走出公司时，黑色迈巴赫 GLS 600正好停在斑马线前。\n\n许青禾下意识退了半步，才发现车辆在礼让行人。\n\n她朝车头轻轻鞠了一躬。\n\n后座的年轻男人侧过脸，隔着降下一线的车窗看向她。\n\n是她？\n",
+          "lineCount": 130,
+          "startLine": 1
+        }
+      },
+      "images": [],
+      "contentDigest": "c494b022ca17571d2f3dda5967804b2e6d80195086d731cefe06a8864456b629",
+      "providerUserMessageId": "01a05acf-3d93-7013-b1c4-3349cc130f71",
+      "providerAssistantMessageId": "msg_036f2f01e2b6d03b016a96395b2b0887d0bedba8b5ebcc3130"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788233635466-kxnnm56",
+      "userTurnOrdinal": 136,
+      "state": "accepted",
+      "localMessageId": "msg-1788233635359-dgnwctb",
+      "timestamp": 1788233635359,
+      "rawDisplayText": "nonono，我建议这样。\n小黄除了公司大堂，然后想到，对方井彦，一定是借题发挥，把他赶了出去。\n\n哼，好一个假公济私的方井彦。莫非你也看上她了么？\n\n然后他想着反正都离职了，我怕什么，我要毁了他！\n接着他想重新上楼，发现已经没有权限进门禁了。\n这个破公司，平时请假审批、财务报销卡几天流程，把你踢走倒是干脆利落。难不倒我的，他知道走停车场有可以跟人一起绕过门禁。\n然后在停车场，他看着一辆黑色迈巴赫 GLS 600，他就跟着那三个人一起上楼了。这里只写三人外貌气质，不需要写名字",
+      "canonicalText": "nonono，我建议这样。\n小黄除了公司大堂，然后想到，对方井彦，一定是借题发挥，把他赶了出去。\n\n哼，好一个假公济私的方井彦。莫非你也看上她了么？\n\n然后他想着反正都离职了，我怕什么，我要毁了他！\n接着他想重新上楼，发现已经没有权限进门禁了。\n这个破公司，平时请假审批、财务报销卡几天流程，把你踢走倒是干脆利落。难不倒我的，他知道走停车场有可以跟人一起绕过门禁。\n然后在停车场，他看着一辆黑色迈巴赫 GLS 600，他就跟着那三个人一起上楼了。这里只写三人外貌气质，不需要写名字",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "一辆黑色迈巴赫 GLS 600",
+          "lineCount": 1,
+          "startLine": 77
+        }
+      },
+      "images": [],
+      "contentDigest": "d88ccbc995e1d4aa59a2c8770fec32e1f3d6cd58dc7e3eb595c930511001239a",
+      "providerUserMessageId": "01a05b07-d799-7803-9624-23fbdd5d6e00",
+      "providerAssistantMessageId": "msg_010a5b5be2e47965016a9647fa651087d0a4dd89b3ba62efbc"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788233988213-lyx77id",
+      "userTurnOrdinal": 137,
+      "state": "accepted",
+      "localMessageId": "msg-1788233988122-i44dzsg",
+      "timestamp": 1788233988122,
+      "rawDisplayText": "这一段我希望是保镖的高光，你给我整帅一点",
+      "canonicalText": "这一段我希望是保镖的高光，你给我整帅一点",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "一辆黑色迈巴赫 GLS 600驶进地库。\n\n车门打开。年长男人穿深色大衣，肩背沉稳，眉间压着久居上位的冷肃；年轻男人一身浅灰色，眉眼疏朗，站在他身侧时仍带着几分漫不经心的清朗。\n\n最后下来的是一名随行安保。黑色西装收住宽阔的肩背，短发利落，眉骨与下颌线条冷硬。他不看车门，只扫过出口、立柱和监控死角。\n\n三人走进电梯，小黄也挤了进去。\n\n门缓慢合拢。金属壁映出他扭曲的脸。\n\n他低头翻着手机，屏幕上是许青禾的照片。那双眼睛黏在屏幕上，像要从照片里剥下一层什么。\n\n保镖看清那张照片，目光只停了半秒。\n\n电梯门开，前面两人进了总经理办公室。保镖落在后面，等小黄从前台外侧绕过去。\n\n小黄刚经过门口，身后便压下一只手。\n\n他来不及出声，就被拖进洗手间。门锁落下，里面传出一声短促的撞击。保镖将他的手反扣，用束带固定，随后拨出报警电话。\n",
+          "lineCount": 20,
+          "startLine": 85
+        }
+      },
+      "images": [],
+      "contentDigest": "4ebe197d0b314e45a78f948db0f7222ae7cd7b8930212b1e5a068572dc9d231b",
+      "providerUserMessageId": "01a05b0d-394f-7e32-b752-629c40bf4c11",
+      "providerAssistantMessageId": "msg_0dc1659fcba86bda016a9649563fcc87d09f261fb74beb877b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788234696355-9fy8l86",
+      "userTurnOrdinal": 138,
+      "state": "accepted",
+      "localMessageId": "msg-1788234696250-926zshg",
+      "timestamp": 1788234696250,
+      "rawDisplayText": "这里总经理可以说相信在陆总和小陆总的带领下，更上一层楼。\n然后可以插入前台窃窃私语，原来他们就是星动集体的创始人陆知远和公子陆星朗。陆星朗好帅啊。\n这时保镖过来按电梯，行政，我去，保镖更帅。入职星动要卡颜值的吗",
+      "canonicalText": "这里总经理可以说相信在陆总和小陆总的带领下，更上一层楼。\n然后可以插入前台窃窃私语，原来他们就是星动集体的创始人陆知远和公子陆星朗。陆星朗好帅啊。\n这时保镖过来按电梯，行政，我去，保镖更帅。入职星动要卡颜值的吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "总经理将那一老一少送到门口，同两人握手，笑得郑重：“芯动力交给星动，我相信可以更上一层楼。”",
+          "lineCount": 1,
+          "startLine": 127
+        }
+      },
+      "images": [],
+      "contentDigest": "6900530493dbd1e9b6291da9772d0b94e00c564969db0a7fc9e0ae4191cfce49",
+      "providerUserMessageId": "01a05b18-071d-7693-a8c2-6a5830b41d57",
+      "providerAssistantMessageId": "msg_0707006cc870aa12016a964bec0d4887d09472fcbfc08df665"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788234941315-do1m3ta",
+      "userTurnOrdinal": 139,
+      "state": "accepted",
+      "localMessageId": "msg-1788234941239-w7dt3mi",
+      "timestamp": 1788234941239,
+      "rawDisplayText": "好的，按照AGENTS，检查一下第4章",
+      "canonicalText": "好的，按照AGENTS，检查一下第4章",
+      "images": [],
+      "contentDigest": "256f558addfd05647234b8911ef123c05f51b88d4317e407ac5f9216db489dbf",
+      "providerUserMessageId": "01a05b1b-c3f1-7a31-93f1-53e8b3070b81",
+      "providerAssistantMessageId": "msg_07970d184a461f7d016a964d4d960087d086aa36200db6dfe1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788235274207-50pcw6s",
+      "userTurnOrdinal": 140,
+      "state": "accepted",
+      "localMessageId": "msg-1788235274111-a0aqunp",
+      "timestamp": 1788235274111,
+      "rawDisplayText": "行",
+      "canonicalText": "行",
+      "images": [],
+      "contentDigest": "9c7e677f4ddfb514727b48be2c6736caf44ed57d3f69f8484126c87821457d06",
+      "providerUserMessageId": "01a05b20-d885-7d82-9e7b-8353ccfeb6eb",
+      "providerAssistantMessageId": "msg_0e6c8d67dde2bd7b016a964e17441487d0aa6463f38ff68a9a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788235470837-2dgozbh",
+      "userTurnOrdinal": 141,
+      "state": "accepted",
+      "localMessageId": "msg-1788235470755-ynkft2p",
+      "timestamp": 1788235470755,
+      "rawDisplayText": "这里写保安不让小黄进，年长男子示意没必要",
+      "canonicalText": "这里写保安不让小黄进，年长男子示意没必要",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "小黄也挤了进去。",
+          "lineCount": 1,
+          "startLine": 93
+        }
+      },
+      "images": [],
+      "contentDigest": "deee42bfdc53f6d3090edd1415b28da45344ec63c465271682226077eabb6cd5",
+      "providerUserMessageId": "01a05b23-d8b7-73b1-a60d-ff14ace78d01",
+      "providerAssistantMessageId": "msg_0acd321e8e077733016a964ee74b9887d08cc466ae8be73a28"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788235637341-1gbwe6n",
+      "userTurnOrdinal": 142,
+      "state": "accepted",
+      "localMessageId": "msg-1788235637227-j9x24ga",
+      "timestamp": 1788235637227,
+      "rawDisplayText": "不是抬手，加点压迫感，保镖直接站在电梯口，居高临下，小黄硬挤，保镖岿然不动。年长男子示意不必。小黄挤进电梯后，骂保安公司是你家开的吗？你老板比你有素质多了",
+      "canonicalText": "不是抬手，加点压迫感，保镖直接站在电梯口，居高临下，小黄硬挤，保镖岿然不动。年长男子示意不必。小黄挤进电梯后，骂保安公司是你家开的吗？你老板比你有素质多了",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "小黄也挤了进去。",
+          "lineCount": 1,
+          "startLine": 93
+        }
+      },
+      "images": [],
+      "contentDigest": "3271690a631b8c1fbd45fb97f9367c777ac8aaae77e1f9f08e25afc678c5718a",
+      "providerUserMessageId": "01a05b26-6310-78c3-801a-437ab58e7434",
+      "providerAssistantMessageId": "msg_0c32cc06ab569797016a964f8c5a4487d084a019fd05b9cf2c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788235911426-fadsmat",
+      "userTurnOrdinal": 143,
+      "state": "accepted",
+      "localMessageId": "msg-1788235911325-g29fvz6",
+      "timestamp": 1788235911325,
+      "rawDisplayText": "言语不够干练简洁，破坏了压迫感",
+      "canonicalText": "言语不够干练简洁，破坏了压迫感",
+      "images": [],
+      "contentDigest": "2dedf2da2835bb0c284e03a140b905a065a7787871533dc6214c02a8f6e685be",
+      "providerUserMessageId": "01a05b2a-917c-77f1-9ec6-8cb1998068b9",
+      "providerAssistantMessageId": "msg_009501a4a71bc950016a9650b2f77487d0beb67316dbe4f72d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788236067300-88rhgv6",
+      "userTurnOrdinal": 144,
+      "state": "accepted",
+      "localMessageId": "msg-1788236067221-0u9cqrm",
+      "timestamp": 1788236067221,
+      "rawDisplayText": "分析一下这一段，有没有优化空间",
+      "canonicalText": "分析一下这一段，有没有优化空间",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "楼上，保镖站在落地窗前，看见她低着头走在方井彦身侧。目光只停了一瞬，便移开了。\n\n总经理将那一老一少送到门口，同两人握手，笑得郑重：“芯动力交给星动。我相信，在陆总和小陆总的带领下，一定能更上一层楼。”\n\n前台的两个姑娘压低声音。\n\n“原来他们就是星动集团的创始人陆知远，和他儿子陆星朗。”\n\n“陆星朗好帅啊。”\n\n保镖从窗前退开，走到电梯口按下下行键。行政部的小姑娘看清他的侧脸，倒吸一口气：“我去，保镖更帅。入职星动还卡颜值的吗？”\n\n保镖没有回头。电梯门开，他侧身等陆知远和陆星朗先进去，才重新站回陆星朗身后半步。视线扫过走廊、电梯和出口，像刚才什么都没有看见。\n\n三人走出公司时，黑色迈巴赫 GLS 600正好停在斑马线前。\n\n许青禾下意识退了半步，才发现车辆在礼让行人。\n\n她朝车头轻轻鞠了一躬。\n\n后座的年轻男人侧过脸，隔着降下一线的车窗看向她。\n\n是她？",
+          "lineCount": 23,
+          "startLine": 139
+        }
+      },
+      "images": [],
+      "contentDigest": "fde312e68f8e2f06ba32b341d4cfafa3f73d876d8a0d8edcd5a6dfd3ce4fe791",
+      "providerUserMessageId": "01a05b2c-f258-7402-973e-6bc753fe7205",
+      "providerAssistantMessageId": "msg_0122c89f2eeaaf59016a965158c01487d0a166f263d786c489"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788236172603-wvieo2w",
+      "userTurnOrdinal": 145,
+      "state": "accepted",
+      "localMessageId": "msg-1788236172497-oh1wfys",
+      "timestamp": 1788236172497,
+      "rawDisplayText": "改吧",
+      "canonicalText": "改吧",
+      "images": [],
+      "contentDigest": "86c7caca35e52eb92e668abd7a2ae8d76901ab6d1f44b3a1da4bb645cd893997",
+      "providerUserMessageId": "01a05b2e-8db3-78d3-80f5-956285e87e8a",
+      "providerAssistantMessageId": "msg_0fc2efb3878c58c6016a9651bb066887d09771b7780da57397"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788236326488-orxtlbi",
+      "userTurnOrdinal": 146,
+      "state": "accepted",
+      "localMessageId": "msg-1788236326392-tzlry5m",
+      "timestamp": 1788236326392,
+      "rawDisplayText": "加点侧脸",
+      "canonicalText": "加点侧脸",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "小姑娘们看清他的侧脸，小声道：“我去，保镖更帅。入职星动还卡颜值的吗？”",
+          "lineCount": 1,
+          "startLine": 151
+        }
+      },
+      "images": [],
+      "contentDigest": "b2336764b8df48aba0b266aef8f25ab7846172d20f562329ca2c1c2402793225",
+      "providerUserMessageId": "01a05b30-e6d9-7a42-b4ec-19ec4c65033e",
+      "providerAssistantMessageId": "msg_0e7cff6fce947510016a96524027b887d0aff3994c2448da54"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788236406960-fp75j82",
+      "userTurnOrdinal": 147,
+      "state": "accepted",
+      "localMessageId": "msg-1788236406856-cc3nacy",
+      "timestamp": 1788236406856,
+      "rawDisplayText": "够冷酷吗？",
+      "canonicalText": "够冷酷吗？",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "小姑娘们看清他的侧脸，小声道：“我去，保镖更帅。入职星动还卡颜值的吗？”",
+          "lineCount": 1,
+          "startLine": 151
+        }
+      },
+      "images": [],
+      "contentDigest": "a48be75cd585b3a6f0636479693f8d2932384ee9d80ad3e6f91191b1ea46b2cf",
+      "providerUserMessageId": "01a05b32-2124-7cd2-a12e-98c9b90ad7a7",
+      "providerAssistantMessageId": "msg_067cbbc5057da0db016a96528517a487d0836fd3634ee85b0b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788236491461-yjgdhpo",
+      "userTurnOrdinal": 148,
+      "state": "accepted",
+      "localMessageId": "msg-1788236491381-fmk6fl3",
+      "timestamp": 1788236491381,
+      "rawDisplayText": "需要再提迈巴赫吗",
+      "canonicalText": "需要再提迈巴赫吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "三人走出公司。黑色迈巴赫 GLS 600停在斑马线前。\n\n许青禾下意识退了半步，才发现车辆在礼让行人。\n\n她朝车头轻轻鞠了一躬。\n\n陆星朗侧过脸，隔着降下一线的车窗看向她。\n\n是她？\n",
+          "lineCount": 10,
+          "startLine": 163
+        }
+      },
+      "images": [],
+      "contentDigest": "ac9dc37006d00944d67a29b493d31f37bc08b64e30cc1c127c1851ab43a4de2f",
+      "providerUserMessageId": "01a05b33-6b65-7713-abe9-e8e0b46d9355",
+      "providerAssistantMessageId": "msg_0f07fd0905df852f016a9652d4fbd487d09b6467827f8d0776"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788236539464-bhef1xu",
+      "userTurnOrdinal": 149,
+      "state": "accepted",
+      "localMessageId": "msg-1788236539366-d19y6oi",
+      "timestamp": 1788236539366,
+      "rawDisplayText": "这写的是啥",
+      "canonicalText": "这写的是啥",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "走廊、电梯、出口，重新落进他的视线。\n\n三人走出公司。那辆黑色迈巴赫停在斑马线前。\n\n许青禾下意识退了半步，才发现车辆在礼让行人。\n\n她朝车头轻轻鞠了一躬。\n\n陆星朗侧过脸，隔着降下一线的车窗看向她。\n\n是她？",
+          "lineCount": 11,
+          "startLine": 161
+        }
+      },
+      "images": [],
+      "contentDigest": "7780f10315c58e702ffd75c3bd1bcc433a0f6d92c3459fd40046faa4362d454d",
+      "providerUserMessageId": "01a05b34-26c4-7e92-a80f-2ab10556157f",
+      "providerAssistantMessageId": "msg_0961fa4d24acf7a7016a965317257c87d0b282d8a34e92f639"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788238152064-zqg1a93",
+      "userTurnOrdinal": 150,
+      "state": "accepted",
+      "localMessageId": "msg-1788238151976-0a8cay3",
+      "timestamp": 1788238151976,
+      "rawDisplayText": "这里可以缩减，当迈巴赫从地库缓缓驶出时，陆星朗侧过脸，隔着车窗望出。\n是她？",
+      "canonicalText": "这里可以缩减，当迈巴赫从地库缓缓驶出时，陆星朗侧过脸，隔着车窗望出。\n是她？",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "陆星朗侧过脸，隔着降下一线的车窗看",
+          "lineCount": 1,
+          "startLine": 169
+        }
+      },
+      "images": [],
+      "contentDigest": "0231266497c6ff8689f37fb7ef986198ddcc7dea14be92e19d00b8534f015c7f",
+      "providerUserMessageId": "01a05b4c-c280-7ba3-9e00-73e19abb1b57"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788238234959-7l07p64",
+      "userTurnOrdinal": 151,
+      "state": "accepted",
+      "localMessageId": "msg-1788238234849-qian851",
+      "timestamp": 1788238234849,
+      "rawDisplayText": "这里可以缩减，迈巴赫从地库缓缓驶出。\n许青禾和方井彦正从花坛另一头折回。\n陆星朗侧过脸，隔着车窗望出。\n是她？",
+      "canonicalText": "这里可以缩减，迈巴赫从地库缓缓驶出。\n许青禾和方井彦正从花坛另一头折回。\n陆星朗侧过脸，隔着车窗望出。\n是她？",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "许青禾和方井彦正从花坛另一头折回。",
+          "lineCount": 1,
+          "startLine": 165
+        }
+      },
+      "images": [],
+      "contentDigest": "abbaf05da32b69d8150e466ada46090b7124ae152078567d7adb2292a1f77fbb",
+      "providerUserMessageId": "01a05b4e-11ae-7313-80a3-0f983d5a1985",
+      "providerAssistantMessageId": "msg_02aedb4abea5cd56016a9659c4078487d0bb04c37d23dea86e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788238359079-clbfjrs",
+      "userTurnOrdinal": 152,
+      "state": "accepted",
+      "localMessageId": "msg-1788238358977-wbzqmud",
+      "timestamp": 1788238358977,
+      "rawDisplayText": "分析一下本章节",
+      "canonicalText": "分析一下本章节",
+      "images": [],
+      "contentDigest": "ee112795dd25242fe87e5e9a83fa5ceef592ac477facac25cb748769f10c838d",
+      "providerUserMessageId": "01a05b4f-eab2-79c3-ac62-4c0a519352b7",
+      "providerAssistantMessageId": "msg_0c74724dea5da7e2016a965a871e8887d0bdc19d4397f1e3a4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788241932562-nhn5kdw",
+      "userTurnOrdinal": 153,
+      "state": "accepted",
+      "localMessageId": "msg-1788241932455-xrb1dtd",
+      "timestamp": 1788241932455,
+      "rawDisplayText": "可优化的地方先改了。必改的地方我看看",
+      "canonicalText": "可优化的地方先改了。必改的地方我看看",
+      "images": [],
+      "contentDigest": "fad4a3730decd355b357806163fc3b4cc29b062070830f96e1596da79478394a",
+      "providerUserMessageId": "01a05b86-725c-7401-bfc4-b8f832e6dd25",
+      "providerAssistantMessageId": "msg_01997bb847753cb7016a96682446fc87d08c5c8fae00ce6ec1"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788242404835-hhn0jf1",
+      "userTurnOrdinal": 154,
+      "state": "accepted",
+      "localMessageId": "msg-1788242404720-vcklh9t",
+      "timestamp": 1788242404720,
+      "rawDisplayText": "小黄抱着纸箱，被两名保安带着从走廊尽头出来。\n周围的人都在开小差，原来是几名女同事联名举报了小黄。怀疑小黄经常偷拍、骚扰女同事。\n经过IT的调查，确实发现小黄电脑里有不少记录。\n人力部也是第一时间以严重违纪为由，解雇了小黄。\n跟许青禾擦肩而过时，小黄想说什么，但是被保安夹走了。",
+      "canonicalText": "小黄抱着纸箱，被两名保安带着从走廊尽头出来。\n周围的人都在开小差，原来是几名女同事联名举报了小黄。怀疑小黄经常偷拍、骚扰女同事。\n经过IT的调查，确实发现小黄电脑里有不少记录。\n人力部也是第一时间以严重违纪为由，解雇了小黄。\n跟许青禾擦肩而过时，小黄想说什么，但是被保安夹走了。",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "小黄正抱着纸箱从走廊尽头出来。\n\n几名女同事补交了投诉，人力部又在他的工作电脑里发现偷拍记录，给出的理由是严重违纪。\n\n昨晚还替她挡酒的男人，衬衫皱得不像样，脸色阴沉。他经过市场部玻璃门，朝里面停了一下。",
+          "lineCount": 5,
+          "startLine": 65
+        }
+      },
+      "images": [],
+      "contentDigest": "d282f53945002b9d9af4d4bda1c4cb9a9c881bf99d94e1062e56f4d6396bd3c6",
+      "providerUserMessageId": "01a05b8d-a6b8-79d1-abab-37b64ea7cef8",
+      "providerAssistantMessageId": "msg_0960d1034489c7e5016a966a024eb087d0aab06e30d73df7ee"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788244743554-a573bft",
+      "userTurnOrdinal": 155,
+      "state": "accepted",
+      "localMessageId": "msg-1788244743454-njyqr42",
+      "timestamp": 1788244743454,
+      "rawDisplayText": "89行起，建议加入点许青禾一整天心不在焉的描写",
+      "canonicalText": "89行起，建议加入点许青禾一整天心不在焉的描写",
+      "images": [],
+      "contentDigest": "1c452e744f5750cd716e37df947bad6748e76ea81213226fb1cc1cb71edc2628",
+      "providerUserMessageId": "01a05bb1-5685-76e2-8591-6a985cd34d15",
+      "providerAssistantMessageId": "msg_0531985255233c62016a96738289a887d09632be2539b76967"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788245153983-j4vsw2f",
+      "userTurnOrdinal": 156,
+      "state": "accepted",
+      "localMessageId": "msg-1788245153873-vmxmuyz",
+      "timestamp": 1788245153873,
+      "rawDisplayText": "你这个出场有问题，保安最后下车吗",
+      "canonicalText": "你这个出场有问题，保安最后下车吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "车门打开。年长男人穿深色大衣，肩背沉稳，眉间压着久居上位的冷肃；年轻男人一身浅灰色，眉眼疏朗，站在他身侧时仍带着几分漫不经心的清朗。\n\n最后下来的是一名随行安保。黑色西装将宽阔的肩背收得利落，冷白灯光掠过深刻的眉骨与下颌。他替两人挡住车门，随即退回年轻男人身后半步，目光扫过出口、立柱和监控死角。",
+          "lineCount": 3,
+          "startLine": 95
+        }
+      },
+      "images": [],
+      "contentDigest": "f5f22e6f9d1afe6e5c96b3abb35743a34abdb421242b8e13fb65c06eb585b31f",
+      "providerUserMessageId": "01a05bb7-9975-7211-ad94-fe2eb364b65a",
+      "providerAssistantMessageId": "msg_02314f6ab00e4e85016a9674beed8087d095c61e28059fbcaf"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788245839691-riycs89",
+      "userTurnOrdinal": 157,
+      "state": "accepted",
+      "localMessageId": "msg-1788245839571-aybp6v8",
+      "timestamp": 1788245839571,
+      "rawDisplayText": "看看现在我改的",
+      "canonicalText": "看看现在我改的",
+      "images": [],
+      "contentDigest": "5552ddfe0da366dca77c60543284dd9f99610785f5cd32469db83e842d7fc1f7",
+      "providerUserMessageId": "01a05bc2-0fed-73e3-a791-f60d6dfcac72",
+      "providerAssistantMessageId": "msg_0d7f3fefc9a3b1d1016a96779566b487d0bfcfcec8591bc1c9"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788245995326-xuv84dd",
+      "userTurnOrdinal": 158,
+      "state": "accepted",
+      "localMessageId": "msg-1788245995215-tz9i0ht",
+      "timestamp": 1788245995215,
+      "rawDisplayText": "改吧",
+      "canonicalText": "改吧",
+      "images": [],
+      "contentDigest": "86c7caca35e52eb92e668abd7a2ae8d76901ab6d1f44b3a1da4bb645cd893997",
+      "providerUserMessageId": "01a05bc4-6fbb-74a2-9d58-90c3b0c652cf",
+      "providerAssistantMessageId": "msg_081f31ad0e1b6a92016a96781a949887d08d4ead29b3419ce2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788246349431-5ihmku3",
+      "userTurnOrdinal": 159,
+      "state": "accepted",
+      "localMessageId": "msg-1788246349326-bjb2f2q",
+      "timestamp": 1788246349326,
+      "rawDisplayText": "这个可以不要吗？我就是想出乎大家意料，没想到小黄是个这么变态的人，在地库从上午蹲到下午",
+      "canonicalText": "这个可以不要吗？我就是想出乎大家意料，没想到小黄是个这么变态的人，在地库从上午蹲到下午",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "他没有离开，拐进地库，在员工电梯旁等着下一次刷卡。",
+          "lineCount": 1,
+          "startLine": 89
+        }
+      },
+      "images": [],
+      "contentDigest": "f1af81d26340abd05adfdcc68fa2ee1e812a3919a382627bd298c85703c1852e",
+      "providerUserMessageId": "01a05bc9-d71c-7a22-8733-2fb00645ac6c",
+      "providerAssistantMessageId": "msg_056ebf7153dbd5c3016a96795985bc87d0a85efb9a52b99fe2"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788246883980-baaclfd",
+      "userTurnOrdinal": 160,
+      "state": "accepted",
+      "localMessageId": "msg-1788246883862-ktgrhck",
+      "timestamp": 1788246883862,
+      "rawDisplayText": "现在呢",
+      "canonicalText": "现在呢",
+      "images": [],
+      "contentDigest": "39f7dc070e72448d1825ba473f711f40786c753381b66c1e728577e5ea3591d9",
+      "providerUserMessageId": "01a05bd1-ff8a-73c0-a217-395f55c04f85",
+      "providerAssistantMessageId": "msg_0956358ac1e1861e016a967b88fbb887d09004d9315c1b4ad4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788246976802-uc8na98",
+      "userTurnOrdinal": 161,
+      "state": "accepted",
+      "localMessageId": "msg-1788246976696-pka23z3",
+      "timestamp": 1788246976696,
+      "rawDisplayText": "OK。根据AGENTS重新检查这一章",
+      "canonicalText": "OK。根据AGENTS重新检查这一章",
+      "images": [],
+      "contentDigest": "94264a8e1bb12aedd388fdb6c8bbf5a5c6f228c51938c895f47b483c475a3e17",
+      "providerUserMessageId": "01a05bd3-69da-79b0-b2fc-77ba4389313c",
+      "providerAssistantMessageId": "msg_00e1a1fc7cd1cfa9016a967c210d7c87d0b542885baebeb63c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788247104984-7clgdbz",
+      "userTurnOrdinal": 162,
+      "state": "accepted",
+      "localMessageId": "msg-1788247104890-dmzvrdn",
+      "timestamp": 1788247104890,
+      "rawDisplayText": "改吧",
+      "canonicalText": "改吧",
+      "images": [],
+      "contentDigest": "86c7caca35e52eb92e668abd7a2ae8d76901ab6d1f44b3a1da4bb645cd893997",
+      "providerUserMessageId": "01a05bd5-5e66-7913-9b0e-450aa7ecccda",
+      "providerAssistantMessageId": "msg_050c18475d2f9dc7016a967c53396887d0bf504a8853e4ebbf"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788247235159-8v7qe54",
+      "userTurnOrdinal": 163,
+      "state": "accepted",
+      "localMessageId": "msg-1788247235068-n4ajefz",
+      "timestamp": 1788247235068,
+      "rawDisplayText": "使用AGENTS帮我检查1~4章，看看有没有问题",
+      "canonicalText": "使用AGENTS帮我检查1~4章，看看有没有问题",
+      "images": [],
+      "contentDigest": "694b18bd94934f131129ea600c748d89abe1014b5f5684a394ff19eff31ee826",
+      "providerUserMessageId": "01a05bd7-5acb-7a71-a124-dea060fd83c2",
+      "providerAssistantMessageId": "msg_0b0a526e20d398dd016a967d7b462487d08f4293805c891577"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788252524034-23ry4h0",
+      "userTurnOrdinal": 164,
+      "state": "accepted",
+      "localMessageId": "msg-1788252523949-zoqic22",
+      "timestamp": 1788252523949,
+      "rawDisplayText": "第二章26~41行优化一下",
+      "canonicalText": "第二章26~41行优化一下",
+      "images": [],
+      "contentDigest": "3d9d5f4d48c0e058a3b6454a0d75d2a226e19fa233113d9792842348d6245979",
+      "providerUserMessageId": "01a05c28-0f29-7a70-a7e5-10003c5a9aa9",
+      "providerAssistantMessageId": "msg_0d36e786d2f17a1d016a9691be790087d09d91a556a2c6998f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788253734800-ligkk0t",
+      "userTurnOrdinal": 165,
+      "state": "accepted",
+      "localMessageId": "msg-1788253734696-brkous7",
+      "timestamp": 1788253734696,
+      "rawDisplayText": "现在重新检查一下",
+      "canonicalText": "现在重新检查一下",
+      "images": [],
+      "contentDigest": "077d099352f3a20198f395318db8f9f1eb442109dcd1dab19cea836cfd79fba1",
+      "providerUserMessageId": "01a05c3a-8893-78e0-a6f2-70172c7318ed"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788254493198-gt4wxp1",
+      "userTurnOrdinal": 166,
+      "state": "accepted",
+      "localMessageId": "msg-1788254493085-ag8rg4d",
+      "timestamp": 1788254493085,
+      "rawDisplayText": "现在重新检查一下",
+      "canonicalText": "现在重新检查一下",
+      "images": [],
+      "contentDigest": "077d099352f3a20198f395318db8f9f1eb442109dcd1dab19cea836cfd79fba1",
+      "providerUserMessageId": "01a05c46-1ab9-7221-ba00-844fa143c8c3",
+      "providerAssistantMessageId": "msg_02bd5f85ee11f569016a96995ecc1487d0af133e45965c9408"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788254732887-vrhf9q8",
+      "userTurnOrdinal": 167,
+      "state": "accepted",
+      "localMessageId": "msg-1788254732781-41jjbjh",
+      "timestamp": 1788254732781,
+      "rawDisplayText": "这里好像要改一下，人物、动作承接好像不连贯",
+      "canonicalText": "这里好像要改一下，人物、动作承接好像不连贯",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "男人回过身，指尖轻轻抵住她的唇。\n\n“嘘。”\n\n“不用还。”他说，“就当是保密的礼物。”\n\n副驾驶的车门合上。\n\n“星朗，这种货色的玫瑰你也买“，方琳隔着车窗扫了许青禾一眼，唇角很轻地扯了一下，“开车吧。”\n\n陆星朗驱车驶入夜色，尾灯在潮湿的路面上拖出两道红线。\n",
+          "lineCount": 12,
+          "startLine": 224
+        }
+      },
+      "images": [],
+      "contentDigest": "d6702fefe3e10517aad130935a5bba23a4da1593d4a1effced88782580a5bbbf",
+      "providerUserMessageId": "01a05c49-c2da-7ff1-bde8-d4461a35dd4b",
+      "providerAssistantMessageId": "msg_0269c8ff5c5eb098016a969a3a751c87d0b210f94e51be0425"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788254851490-dtel12t",
+      "userTurnOrdinal": 168,
+      "state": "accepted",
+      "localMessageId": "msg-1788254851384-yv4wqor",
+      "timestamp": 1788254851384,
+      "rawDisplayText": "1. 没有陆星朗上次的动作；\n2. 方琳是在车上说这种货色的玫瑰你也买。",
+      "canonicalText": "1. 没有陆星朗上次的动作；\n2. 方琳是在车上说这种货色的玫瑰你也买。",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "副驾车窗还留着一道缝。方琳隔着车窗扫了许青禾一眼，唇角很轻地扯了一下。\n\n“星朗，这种货色的玫瑰你也买。”\n\n“开车吧。”",
+          "lineCount": 5,
+          "startLine": 232
+        }
+      },
+      "images": [],
+      "contentDigest": "c9677224d5a6f0f4718b04c3c96b67b687501a44f61bfc4c22a9382836a08336",
+      "providerUserMessageId": "01a05c4b-9226-7852-9ae2-0f8afa004dc3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788254915544-3454bxk",
+      "userTurnOrdinal": 169,
+      "state": "accepted",
+      "localMessageId": "msg-1788254915441-hy1dfkd",
+      "timestamp": 1788254915441,
+      "rawDisplayText": "1. 缺少陆星朗上车的动作；\n2. 方琳是在陆星朗上车后，说这种货色的玫瑰你也买。",
+      "canonicalText": "1. 缺少陆星朗上车的动作；\n2. 方琳是在陆星朗上车后，说这种货色的玫瑰你也买。",
+      "images": [],
+      "contentDigest": "284e386f759205fb4c861c2cd31130f7f901eead8f28325679bff0e5f15b1508",
+      "providerUserMessageId": "01a05c4c-995d-7961-8471-02adbf948b62",
+      "providerAssistantMessageId": "msg_032320d0a3ec2926016a969ad784ac87d0a9b32722d2f97a67"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788255330881-yip783l",
+      "userTurnOrdinal": 170,
+      "state": "accepted",
+      "localMessageId": "msg-1788255330778-xti5o2u",
+      "timestamp": 1788255330778,
+      "rawDisplayText": "不用关门了，改为潇洒转身离开好一点",
+      "canonicalText": "不用关门了，改为潇洒转身离开好一点",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "他转身替方琳合上副驾驶的车门，绕回驾驶座坐下。\n\n副驾车窗还留着一道缝。",
+          "lineCount": 3,
+          "startLine": 230
+        }
+      },
+      "images": [],
+      "contentDigest": "6f91786cf1647a5ef0b3fcf9b1ed2639dfe4708186e3780cad02eb931d360951",
+      "providerUserMessageId": "01a05c52-e337-7361-aa74-22a57293a23c",
+      "providerAssistantMessageId": "msg_00ae24ba8d7de9aa016a969c740c6c87d0aeccdabe4ac3759a"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788255481243-z7lfpid",
+      "userTurnOrdinal": 171,
+      "state": "accepted",
+      "localMessageId": "msg-1788255481157-fbzuhbw",
+      "timestamp": 1788255481157,
+      "rawDisplayText": "我想营造一种她完全被主导，目瞪口呆之中，陆星朗已经上了车",
+      "canonicalText": "我想营造一种她完全被主导，目瞪口呆之中，陆星朗已经上了车",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "他收回手，转身绕过车头，坐进驾驶座。",
+          "lineCount": 1,
+          "startLine": 230
+        }
+      },
+      "images": [],
+      "contentDigest": "a0857607650a7739a98380f3fc12758707589454f2f55ea4f31203dfebe0470e",
+      "providerUserMessageId": "01a05c55-2e31-79e1-88f9-b334e39125a5",
+      "providerAssistantMessageId": "msg_0f50094342459b4e016a969d08b45887d09883381af8dddd56"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788255646261-zd0qfhm",
+      "userTurnOrdinal": 172,
+      "state": "accepted",
+      "localMessageId": "msg-1788255646148-7pzvqy2",
+      "timestamp": 1788255646148,
+      "rawDisplayText": "我觉得要这样写，许青禾从他指尖淡淡的香水味中回过神来时，陆星朗已经发动汽车，驶入夜色。尾灯在潮湿的路面上拖出两道红线。",
+      "canonicalText": "我觉得要这样写，许青禾从他指尖淡淡的香水味中回过神来时，陆星朗已经发动汽车，驶入夜色。尾灯在潮湿的路面上拖出两道红线。",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第002章.md",
+          "mode": "selection",
+          "selectedText": "许青禾还没回过神，他已经转身绕过车头，坐进驾驶座。",
+          "lineCount": 1,
+          "startLine": 230
+        }
+      },
+      "images": [],
+      "contentDigest": "25fc51e20f711c59b286e230b5bcf38ccc2360d2ae1b42a5b1a024dc2106c1f8",
+      "providerUserMessageId": "01a05c57-b2f1-7131-bf76-76551debf95f",
+      "providerAssistantMessageId": "msg_0ec7e36a16da054a016a969dba444c87d0afdb7b6fdf153bce"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788255791202-gjnawf8",
+      "userTurnOrdinal": 173,
+      "state": "accepted",
+      "localMessageId": "msg-1788255791094-offux2n",
+      "timestamp": 1788255791094,
+      "rawDisplayText": "看看我现在改的，跟原版怎么样",
+      "canonicalText": "看看我现在改的，跟原版怎么样",
+      "images": [],
+      "contentDigest": "57dae2be7f4b8cf858697d0226abf29e60c70f7c7fea8d188b065a134b961b28",
+      "providerUserMessageId": "01a05c59-e8ef-74e1-bb55-7868572ff33e",
+      "providerAssistantMessageId": "msg_0799952de27546fa016a969e47d06087d0a78253136a601bd4"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788255903920-0233pj7",
+      "userTurnOrdinal": 174,
+      "state": "accepted",
+      "localMessageId": "msg-1788255903793-ywy68e4",
+      "timestamp": 1788255903793,
+      "rawDisplayText": "现在呢",
+      "canonicalText": "现在呢",
+      "images": [],
+      "contentDigest": "39f7dc070e72448d1825ba473f711f40786c753381b66c1e728577e5ea3591d9",
+      "providerUserMessageId": "01a05c5b-a13d-74c0-9012-b30628cf71dc",
+      "providerAssistantMessageId": "msg_0731a67a4715e7a8016a969eba8f3087d0b698fc36543431e8"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788261303448-l14ohht",
+      "userTurnOrdinal": 175,
+      "state": "accepted",
+      "localMessageId": "msg-1788261303335-nmmw0m6",
+      "timestamp": 1788261303335,
+      "rawDisplayText": "1. 阳光美男应该用什么味道的香水，我想换掉这个“他指尖淡淡的香水味”\n2. 车里换成疾驰的马路上",
+      "canonicalText": "1. 阳光美男应该用什么味道的香水，我想换掉这个“他指尖淡淡的香水味”\n2. 车里换成疾驰的马路上",
+      "images": [],
+      "contentDigest": "f5e2a6d279518ff11863bfc0ef2ab8b51d3e475c3db16268146fa800413dd7f3",
+      "providerUserMessageId": "01a05cae-058f-7e10-819d-ed04702261ab",
+      "providerAssistantMessageId": "msg_0f9552d96eba5a38016a96b3e5748487d0839e5ea0d65ca54f"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788261814864-x9w84ro",
+      "userTurnOrdinal": 176,
+      "state": "accepted",
+      "localMessageId": "msg-1788261814779-i8l6v00",
+      "timestamp": 1788261814779,
+      "rawDisplayText": "分析、总结一下1~4章的特点，跟现有的写作总控对比一下，看看有哪些差异",
+      "canonicalText": "分析、总结一下1~4章的特点，跟现有的写作总控对比一下，看看有哪些差异",
+      "images": [],
+      "contentDigest": "dda22e50aefc9f55b5328f7be4b3dd05bf1663ebda346783cac6797ec75143a3",
+      "providerUserMessageId": "01a05cb5-d301-7cd1-83fd-1ad7fe3abc14",
+      "providerAssistantMessageId": "msg_0460b52b643cb9b8016a96b619a97c87d09740f81212c5d356"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788262054267-da4qewr",
+      "userTurnOrdinal": 177,
+      "state": "accepted",
+      "localMessageId": "msg-1788262054179-q86vcqq",
+      "timestamp": 1788262054179,
+      "rawDisplayText": "好的，更新总控吧。\n芯动力被星动收购的铺垫略快这个我稍后处理",
+      "canonicalText": "好的，更新总控吧。\n芯动力被星动收购的铺垫略快这个我稍后处理",
+      "images": [],
+      "contentDigest": "5b2c42c225943a6d30efca6907f964d263d8a8f3983abd10e116ee027ad459b1",
+      "providerUserMessageId": "01a05cb9-79ec-7142-bfe1-7616b79ea8d5",
+      "providerAssistantMessageId": "msg_086978de8c937e95016a96b6fac63c87d0b8ebdae73e67ee6c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788262191804-d4iw99k",
+      "userTurnOrdinal": 178,
+      "state": "accepted",
+      "localMessageId": "msg-1788262191690-gfyspfc",
+      "timestamp": 1788262191690,
+      "rawDisplayText": "那你的建议是什么？",
+      "canonicalText": "那你的建议是什么？",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "总经理将那一老一少送到门口，同两人握手，笑得郑重：“芯动力交给星动。我相信，在陆总和小陆总的带领下，一定能更上一层楼。”",
+          "lineCount": 1,
+          "startLine": 155
+        }
+      },
+      "images": [],
+      "contentDigest": "b116f667fc3020d700a0c872a65d4edec007db2958558e389915cefffc66e6ea",
+      "providerUserMessageId": "01a05cbb-9372-7ec2-86a6-de444228d084",
+      "providerAssistantMessageId": "msg_061caedf9178db78016a96b7592a6487d0b2b2fefe209bf24c"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788262330190-aoffrbc",
+      "userTurnOrdinal": 179,
+      "state": "accepted",
+      "localMessageId": "msg-1788262330074-9bpmh21",
+      "timestamp": 1788262330074,
+      "rawDisplayText": "那就改成季度结束，销量翻倍吧",
+      "canonicalText": "那就改成季度结束，销量翻倍吧",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第003章.md",
+          "mode": "selection",
+          "selectedText": "月底，市场部约了庆功聚餐。",
+          "lineCount": 1,
+          "startLine": 143
+        }
+      },
+      "images": [],
+      "contentDigest": "80230723e9671bbc13e17a23c1d1aa3dd6b527d07bcdb52ba0d191be629a027c",
+      "providerUserMessageId": "01a05cbd-afdf-7670-a725-21517b847c34",
+      "providerAssistantMessageId": "msg_0b0b2aa8e0332cd2016a96b7dfd9cc87d0b046761f24a0748e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788262857005-6pjz88r",
+      "userTurnOrdinal": 180,
+      "state": "accepted",
+      "localMessageId": "msg-1788262856916-2il1e4d",
+      "timestamp": 1788262856916,
+      "rawDisplayText": "这里需要交代保镖报完警直接离开，既不暴露自己，做事也干净",
+      "canonicalText": "这里需要交代保镖报完警直接离开，既不暴露自己，做事也干净",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "门锁落下。保镖拨出报警电话，声音低而冷静：“这里有人非法进入，涉嫌跟踪、偷拍。”\n\n十分钟后，警察赶到。",
+          "lineCount": 3,
+          "startLine": 133
+        }
+      },
+      "images": [],
+      "contentDigest": "6cf56d17adf8a8552797d021a33bf0b68775fbc919837261395e267396126506",
+      "providerUserMessageId": "01a05cc5-b9b3-77b2-ad46-4a79e853daa3"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788262869707-yggkm3i",
+      "userTurnOrdinal": 181,
+      "state": "accepted",
+      "localMessageId": "msg-1788262869590-ccsxna8",
+      "timestamp": 1788262869590,
+      "rawDisplayText": "这里需要交代保镖报完警直接离开，既不暴露自己，做事也干净吗",
+      "canonicalText": "这里需要交代保镖报完警直接离开，既不暴露自己，做事也干净吗",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "门锁落下。保镖拨出报警电话，声音低而冷静：“这里有人非法进入，涉嫌跟踪、偷拍。”\n\n十分钟后，警察赶到。",
+          "lineCount": 3,
+          "startLine": 133
+        }
+      },
+      "images": [],
+      "contentDigest": "33cc79ef9b7cbd6129d5bad4667ca8170d78a2e61d57f2175e373114b11cd06c",
+      "providerUserMessageId": "01a05cc5-f0a2-7552-975b-6951a666a3a5",
+      "providerAssistantMessageId": "msg_045680cf2f7f878d016a96b9fc0eb487d0b0581ed03efee00b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788263029865-gt98isu",
+      "userTurnOrdinal": 182,
+      "state": "accepted",
+      "localMessageId": "msg-1788263029752-ct7clkh",
+      "timestamp": 1788263029752,
+      "rawDisplayText": "需要连保镖的字眼也不出现吗？\n然后在看到小黄被带走之后，他在人群角落中消失，回到了自己的岗位",
+      "canonicalText": "需要连保镖的字眼也不出现吗？\n然后在看到小黄被带走之后，他在人群角落中消失，回到了自己的岗位",
+      "images": [],
+      "contentDigest": "361f50edd5ea8ca1ddddda4227945a4c97d1d7cdefafdb331d2ab63172c40112",
+      "providerUserMessageId": "01a05cc8-5d18-74e2-bcad-316b03921370",
+      "providerAssistantMessageId": "msg_07392be284eec127016a96baa7aaa887d0956ecfa5aef9d072"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788263958550-vna7i1b",
+      "userTurnOrdinal": 183,
+      "state": "accepted",
+      "localMessageId": "msg-1788263958462-2yyan9l",
+      "timestamp": 1788263958462,
+      "rawDisplayText": "fine，第5章准备写什么",
+      "canonicalText": "fine，第5章准备写什么",
+      "images": [],
+      "contentDigest": "6a8e0388e3246e61743f69699594113f5bee6af47100185060f71e2f0ddcb333",
+      "providerUserMessageId": "01a05cd6-8899-7721-a8e9-7888c8a99f32",
+      "providerAssistantMessageId": "msg_0bb9c9aaa7f83f1f016a96be7469c087d0bc171623b1e911eb"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788267240544-2tpxv1z",
+      "userTurnOrdinal": 184,
+      "state": "accepted",
+      "localMessageId": "msg-1788267240424-x2s3lhk",
+      "timestamp": 1788267240424,
+      "rawDisplayText": "这里先不收购吧，总经理感谢陆总和小陆总的大驾，一定会认真考虑",
+      "canonicalText": "这里先不收购吧，总经理感谢陆总和小陆总的大驾，一定会认真考虑",
+      "context": {
+        "editorSelection": {
+          "notePath": "正文/第004章.md",
+          "mode": "selection",
+          "selectedText": "总经理将那一老一少送到门口，同两人握手，笑得郑重：“芯动力交给星动。我相信，在陆总和小陆总的带领下，一定能更上一层楼。”",
+          "lineCount": 1,
+          "startLine": 159
+        }
+      },
+      "images": [],
+      "contentDigest": "df7b97d1f7abb88c85c24bc3783f48fce18d233e20510c42b7af351c97823b62",
+      "providerUserMessageId": "01a05d08-9d59-7803-8a6d-92c09226d150",
+      "providerAssistantMessageId": "msg_010fb1a080c1f8e6016a96caffa8a887d0828dce6bde239abe"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788267355246-grshd7k",
+      "userTurnOrdinal": 185,
+      "state": "accepted",
+      "localMessageId": "msg-1788267355151-l0pw1z1",
+      "timestamp": 1788267355151,
+      "rawDisplayText": "重新规划第5章。\n给出两个剧情，收购的情况下，还没到收购的情况下",
+      "canonicalText": "重新规划第5章。\n给出两个剧情，收购的情况下，还没到收购的情况下",
+      "images": [],
+      "contentDigest": "d296e2e27ddea36e70929138a56e3a608419f202bca682872b28aae7c3641749",
+      "providerUserMessageId": "01a05d0a-5d39-7e21-b0c8-575dd732634c",
+      "providerAssistantMessageId": "msg_06264f885a4f8573016a96cb950e5087d09c77a8e8efc2c8b7"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788267500262-031rs02",
+      "userTurnOrdinal": 186,
+      "state": "accepted",
+      "localMessageId": "msg-1788267500144-5blboza",
+      "timestamp": 1788267500144,
+      "rawDisplayText": "没什么爆点或者狗血的点",
+      "canonicalText": "没什么爆点或者狗血的点",
+      "images": [],
+      "contentDigest": "1fb8d954aa9bdeda77dad39968ae0ac38d6077b2a3f10d1397c7a0eece65ffd8",
+      "providerUserMessageId": "01a05d0c-936e-7e01-acab-08001ac0c8c7",
+      "providerAssistantMessageId": "msg_068dfdab44536f56016a96cc75b3c887d0bd4600647e2afd01"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1788270318747-lxw0ty0",
+      "userTurnOrdinal": 187,
+      "state": "accepted",
+      "localMessageId": "msg-1788270318657-2ooyuta",
+      "timestamp": 1788270318657,
+      "rawDisplayText": "不够狗血，设计一场方琳和许青禾的正面碰撞",
+      "canonicalText": "不够狗血，设计一场方琳和许青禾的正面碰撞",
+      "images": [],
+      "contentDigest": "074e07bb4f8544a2e361fe37586e9a64ad955853af831fc45bab774892f2d62b",
+      "providerUserMessageId": "01a05d37-958a-7683-8b6d-ec98a59b829a",
+      "providerAssistantMessageId": "msg_088d47180fac7fed016a96d73dba4887d08e854ba96d268530"
+    }
+  ]
+}
